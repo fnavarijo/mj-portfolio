@@ -6,12 +6,12 @@
 </script>
 
 <article {id} class={`app-article ${className}`}>
-  Something inside
+  <slot />
 </article>
 
 <style>
 .app-article {
-  --base-background-color: rgb(194, 194, 194);
+  --base-background-color: #fff;
   
   width: 100vw;
   height: 100vh;
