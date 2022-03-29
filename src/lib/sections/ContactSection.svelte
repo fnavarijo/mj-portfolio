@@ -1,19 +1,34 @@
 <script>
   import AppSection from "../AppSection.svelte";
+  import ContactSocialMedia from '../components/contact/ContactSocialMedia.svelte';
+  import ContactTriggerButton from "../components/contact/ContactTriggerButton.svelte";
+  import LinkedInLogo from '../../assets/linkedin-logo.png';
+  import EmailLogo from '../../assets/email-logo.png';
+  
+  let shouldDisplaySocialInformation = false;
 
+  function handleSocialMediaDisplay (event) {
+    shouldDisplaySocialInformation = event.detail;
+  }
 </script>
 
 <AppSection class="contact-section">
-  <p class="contact-section__title">Contáctame</p>
-  <div>
-    <img src="" alt="">
-    <span>Linkedin</span>
-  </div>
+  <ContactTriggerButton on:change={handleSocialMediaDisplay} /> 
+  {#if !shouldDisplaySocialInformation}
+    <p class="contact-section__title">Contáctame</p>
+  {:else}
+    <div class="contact-section__social-media">
+      <ContactSocialMedia name="LinkedIn" logo={LinkedInLogo} />
+      <ContactSocialMedia name="Correo" logo={EmailLogo} />
+    </div>
+  {/if}
 </AppSection>
 
 <style>
   :global(.contact-section) {
-    background-color: hsla(210, 15%, 89%, 1) !important; /* Remove important */
+    --gray-300: hsl(210, 15%, 89%);
+
+    background-color: var(--gray-300) !important; /* Remove important */
     min-height: 50vh !important;
     display: flex;
     flex-direction: column;
@@ -28,4 +43,11 @@
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
   }
+
+  .contact-section__social-media {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5rem;
+  }
+
 </style>
