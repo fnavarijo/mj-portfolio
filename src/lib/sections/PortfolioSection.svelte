@@ -38,4 +38,16 @@
     font-weight: 500;
     text-transform: uppercase;
   }
+
+  @media only screen and (max-width: 720px) {
+    .portfolio-section__container {
+      width: 16rem;
+    }
+    
+    .portfolio-section__header {
+      font-size: 2rem;
+    }
+  }
 </style>
+
+

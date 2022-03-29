@@ -50,4 +50,11 @@
     gap: 5rem;
   }
 
+  @media only screen and (max-width: 720px) {
+    .contact-section__social-media {
+      grid-template-columns:  1fr;
+      gap: 1rem;
+    }
+  }
+
 </style>

@@ -42,6 +42,11 @@
 
   .carousel-slide__header {
     font-size: 6rem;
+  }
 
+  @media only screen and (max-width: 720px) {
+    .carousel-slide__header {
+      font-size: 3rem;
+    }
   }
 </style>

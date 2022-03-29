@@ -61,5 +61,27 @@
   left: 0;
   transform: translate(-25%, -60%);
 }
+
+@media only screen and (max-width: 720px) {
+  :global(.home-container) {
+    min-height: 70vh !important;
+  }
+  
+  .home-section {
+    grid-template-columns: 1fr;
+    height: 70vh;
+    justify-content: center;
+  }
+
+  .home-section__profile {
+    justify-self: center;
+    margin: 0;
+  }
+
+  .home-section__description-salute {
+    font-size: 3rem;
+    transform: translate(-10%, -60%);
+  }
+}
 /* Work on media queries */
 </style>

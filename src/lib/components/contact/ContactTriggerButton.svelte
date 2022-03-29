@@ -31,6 +31,7 @@
     height: var(--input-height);
     border-radius: 4rem;
     margin-bottom: 2rem;
+    cursor: pointer;
     
     box-shadow: 0px 4px 4px rgba(255, 255, 255, 0.25), inset 6px 3px 11px rgba(9, 9, 9, 0.13);;
   }
@@ -49,5 +50,11 @@
   
   .trigger-button__circle--end {
     left: calc(100% - var(--input-height));
+  }
+
+  @media only screen and (max-width: 720px) {
+    .trigger-button {
+      --input-height: 3.5rem;
+    }
   }
 </style>
