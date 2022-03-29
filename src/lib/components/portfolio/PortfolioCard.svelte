@@ -19,6 +19,8 @@
     background-size: cover;
     aspect-ratio: 2 / 3;
     position: relative;
+
+    box-shadow: 7px 12px 28px rgba(0, 0, 0, 0.12);
   }
 
   .portfolio-card__overlay:hover {
