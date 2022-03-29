@@ -3,7 +3,7 @@
   import AppSection from '../AppSection.svelte';
 </script>
 
-<AppSection id="main-section">
+<AppSection class="home-container">
   <div class="home-section">
     <img src={ProfileImage} alt="Fotografía de Mariajosé" class="home-section__profile">
     <div class="home-section__description">
@@ -14,6 +14,11 @@
 </AppSection>
 
 <style>
+:global(.home-container) {
+  display: flex;
+  align-items: center;
+}
+
 .home-section {
   width: 100vw;
   height: 100%;

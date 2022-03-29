@@ -1,13 +1,15 @@
 <script>
-  import AppSection from './lib/AppSection.svelte';
+  import ContactSection from './lib/sections/ContactSection.svelte';
   import HomeSection from './lib/sections/HomeSection.svelte';
+  import PortfolioSection from './lib/sections/PortfolioSection.svelte';
   import ProductsSection from './lib/sections/ProductsSection.svelte';
 </script>
 
 <main>
   <HomeSection />
   <ProductsSection />
-  <AppSection id="last-section" />
+  <PortfolioSection />
+  <ContactSection />
 </main>
 
 <style>

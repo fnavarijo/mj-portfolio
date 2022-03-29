@@ -14,7 +14,8 @@
   --base-background-color: #fff;
   
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
+  padding: 2rem 0;
   display: flex;
   justify-content: center;
   background-color: var(--background-color, var(--base-background-color));
