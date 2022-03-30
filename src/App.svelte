@@ -1,15 +1,22 @@
 <script>
-  import ContactSection from './lib/sections/ContactSection.svelte';
-  import HomeSection from './lib/sections/HomeSection.svelte';
-  import PortfolioSection from './lib/sections/PortfolioSection.svelte';
-  import ProductsSection from './lib/sections/ProductsSection.svelte';
+  import { Router, Link, Route } from 'svelte-routing';
+  import HomePage from './lib/pages/HomePage.svelte';
+  import ProductPage from './lib/pages/ProductPage.svelte';
+  import Product2DPage from './lib/pages/Product2DPage.svelte';
+
+  export let url = '';
 </script>
 
 <main>
-  <HomeSection />
-  <ProductsSection />
-  <PortfolioSection />
-  <ContactSection />
+  <Router url={url}>
+    <Route path="/producto/2d">
+      <Product2DPage />
+    </Route>
+    <Route path="/producto">
+      <ProductPage />
+    </Route>
+    <Route path="/" component={HomePage} />
+  </Router>
 </main>
 
 <style>

@@ -27,12 +27,12 @@
   }
 
   .portfolio-section__container {
-    width: 64rem;
+    width: 54rem;
     margin: 0 auto;
   }
 
   .portfolio-section__header {
-    font-size: 6rem;
+    font-size: 5rem;
     text-align: center;
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
