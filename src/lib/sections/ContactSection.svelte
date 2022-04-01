@@ -18,8 +18,8 @@
     <p class="contact-section__title">Contáctame</p>
   {:else}
     <div class="contact-section__social-media">
-      <ContactSocialMedia name="LinkedIn" logo={LinkedInLogo} />
-      <ContactSocialMedia name="Correo" logo={EmailLogo} />
+      <ContactSocialMedia name="LinkedIn" logo={LinkedInLogo} url="https://www.linkedin.com/in/mariajosé-navarijo-a817b41b4" />
+      <ContactSocialMedia name="Correo" logo={EmailLogo} type="mail" url="mj.navarijo1900@gmail.com" />
     </div>
   {/if}
 </AppSection>

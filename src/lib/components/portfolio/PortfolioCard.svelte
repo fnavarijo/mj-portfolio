@@ -1,19 +1,28 @@
-<div class="portfolio-card">
-  <div class="portfolio-card__overlay">
-    <hr class="portfolio-card__separator" />
-    <span class="portfolio-card__name">Nombre</span>
-    <p class="portfolio-card__description">Lorem ipsum dolor sit amet, consectetur adipiscing 
-      elit, sed do eiusmod tempor incididunt ut labore et 
-      dolore magna aliqua. 
-      Lorem ipsum dolor sit amet, consectetur adipiscing </p>
-    <button class="portfolio-card__button">Visitar</button>
-  </div>
+<script>
+  import { Link } from 'svelte-routing';
+
+  export let name;
+  export let image;
+  export let description;
+</script>
+
+<div class="portfolio-card" style={`--background-url: url(${image})`}>
+  <Link to="/producto" class="portfolio-card__link">
+    <div class="portfolio-card__overlay">
+      <hr class="portfolio-card__separator" />
+      <span class="portfolio-card__name">{ name }</span>
+      <p class="portfolio-card__description"> {description} </p>
+      <button class="portfolio-card__button">Visitar</button>
+    </div>
+  </Link>
 </div>
 
 <style>
   .portfolio-card {
+    --background-url: url('https://res.cloudinary.com/dkvtpo8w1/image/upload/c_fill,h_310,w_270/v1648783630/MJ%20Portafolio/Colgador%20rompecabezas/render_1.png');
+    
     width: 100%;
-    background: url('https://res.cloudinary.com/dkvtpo8w1/image/upload/c_scale,w_1024/v1648520329/MJ%20Portafolio/sumaid-pal-singh-bakshi-x7dnSyIG-Q4-unsplash.jpg');
+    background: var(--background-url);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -80,5 +89,9 @@
     font-weight: bold;
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
+  }
+
+  :global(.portfolio-card__link) {
+    text-decoration: none;
   }
 </style>
