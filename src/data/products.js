@@ -72,15 +72,11 @@ export const products = {
     materials: '3D, PLA'
   },
   'bsp': {
-    name: 'Corrector de postura',
-    colaboration: 'Paola Cabrera, Roberto Donis, Abner Coc, Mariajosé Navarijo',
-    headerImage: 'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783633/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/test.133.jpg',
-    problem: 'Corrector de postura frente al computador',
-    briefing: 'Corrección de la posición de la muñeca para mejorar la postura frente al computador',
-    user: 'Persona que trabaja desde su casa. Pasa su mayor tiempo conectado en su computadora y se encuentra en un rango de edad de 20 a 35 años.',
-    concept: 'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783646/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/46.png',
-    conceptDescription: 'Corregir el problema de manera indirecta',
-    functionality: 'Corregir la postura de la muñeca de manera directa no es la mejor solución, sino más bien se prefiere que la corrección se haga de manera indirecta. Es por ello, que se tomó como referencia el codo porque en esa parte del cuerpo se encuentra gran cantidad de nervios y estos se encuentran directamente vinculados a la postura de la muñeca.',
-    materials: '3D, PLA'
+    name: 'BSP',
+    image: 'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783700/MJ%20Portafolio/Bio_Solar_Protection.png',
+  },
+  'sense': {
+    name: 'Sense',
+    image: 'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648785200/MJ%20Portafolio/Infografia.png',
   }
 }

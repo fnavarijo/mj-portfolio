@@ -4,10 +4,17 @@
   export let name;
   export let image;
   export let description;
+  export let type = '3D';
+
+  function getRoute () {
+    return type === '3D'
+      ? 'producto'
+      : 'producto-2d';
+  }
 </script>
 
 <div class="portfolio-card" style={`--background-url: url(${image})`}>
-  <Link to={`/producto/${name.toLowerCase().replace(/\s/g, '-')}`} class="portfolio-card__link">
+  <Link to={`/${getRoute()}/${name.toLowerCase().replace(/\s/g, '-')}`} class="portfolio-card__link">
     <div class="portfolio-card__overlay">
       <hr class="portfolio-card__separator" />
       <span class="portfolio-card__name">{ name }</span>

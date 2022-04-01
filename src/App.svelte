@@ -9,7 +9,7 @@
 
 <main>
   <Router url={url}>
-    <Route path="/producto-2d">
+    <Route path="/producto-2d/:name">
       <Product2DPage />
     </Route>
     <Route path="/producto/:name">
