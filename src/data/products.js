@@ -37,7 +37,19 @@ export const products = {
     concept: 'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791341/MJ%20Portafolio/Mini%20parques/3.jpg',
     conceptDescription: 'Generar diferentes alturas tomando como referencia el suelo para lograr variedad en la trayectoria en el diseño.',
     functionality: 'Ser un parque de diversiones enfocado principalmente para niños para que sea un lugar de diversión.',
-    materials: 'Pino tratado y tornillos de cabeza plana para generar mayor seguridad.'
+    materials: 'Pino tratado y tornillos de cabeza plana para generar mayor seguridad.',
+    carousel: [
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791348/MJ%20Portafolio/Mini%20parques/5.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791352/MJ%20Portafolio/Mini%20parques/2.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791353/MJ%20Portafolio/Mini%20parques/1.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791354/MJ%20Portafolio/Mini%20parques/4.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791341/MJ%20Portafolio/Mini%20parques/3.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783690/MJ%20Portafolio/Mini%20parques/Im%C3%A1genes%20para%20portafolio/Parques_render_4.png',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783687/MJ%20Portafolio/Mini%20parques/Im%C3%A1genes%20para%20portafolio/Parques_render_5.png',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783686/MJ%20Portafolio/Mini%20parques/Im%C3%A1genes%20para%20portafolio/Parques_render_3.png',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783686/MJ%20Portafolio/Mini%20parques/Im%C3%A1genes%20para%20portafolio/Parques_render_2.png',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783676/MJ%20Portafolio/Mini%20parques/Im%C3%A1genes%20para%20portafolio/Parques_render_1.png'
+    ]      
   },
   tulio: {
     name: 'Tulio',
@@ -49,7 +61,14 @@ export const products = {
     concept: 'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783637/MJ%20Portafolio/L%C3%A1mpara%20Tulio/modelo_2.png',
     conceptDescription: 'La inspiración proviene principalmente del diseño del caparazón de una tortuga.',
     functionality: 'Sea una luminaria de fácil traslación y pueda funcionar, además de iluminar, sea decorativa en el ambiente.',
-    materials: 'Madera tipo nogal'
+    materials: 'Madera tipo nogal',
+    carousel: [
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783636/MJ%20Portafolio/L%C3%A1mpara%20Tulio/L%C3%A1mpara.png',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783636/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Modelo_1.png',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783637/MJ%20Portafolio/L%C3%A1mpara%20Tulio/modelo_3.png',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783635/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Final.png',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783637/MJ%20Portafolio/L%C3%A1mpara%20Tulio/modelo_2.png'
+    ]    
   },
   rompecabezas: {
     name: 'Rompecabezas',
@@ -73,7 +92,14 @@ export const products = {
     concept: 'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783660/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_4.jpg',
     conceptDescription: 'El diseño proviene principalmente de un recuerdo que mi abuelo me enseñó a dibujar desde pequeña. Esta memoria se utilizó para transformar ese recuerdo en algo tangible y lograr interactuar con él de otra manera.',
     functionality: 'Su forma de interconectar entre ellas es por medio de la flexibilidad entre ellas que se ha generado por medio de un sistema de corte.',
-    materials: 'Corte Láser, MDF de 3 mm'
+    materials: 'Corte Láser, MDF de 3 mm',
+    carousel: [
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783654/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_3.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783660/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_4.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783656/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_5.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783650/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_2.1.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783656/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_6.jpg',
+    ]
   },
   'corrector-de-postura': {
     name: 'Corrector de postura',
@@ -85,7 +111,15 @@ export const products = {
     concept: 'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783646/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/46.png',
     conceptDescription: 'Corregir el problema de manera indirecta',
     functionality: 'Corregir la postura de la muñeca de manera directa no es la mejor solución, sino más bien se prefiere que la corrección se haga de manera indirecta. Es por ello, que se tomó como referencia el codo porque en esa parte del cuerpo se encuentra gran cantidad de nervios y estos se encuentran directamente vinculados a la postura de la muñeca.',
-    materials: '3D, PLA'
+    materials: '3D, PLA',
+    carousel: [
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783635/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/test.142.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783645/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/42.png',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783635/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/test.138.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783634/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/test.136.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783635/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/43.png',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783646/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/46.png',
+    ]
   },
   'bsp': {
     name: 'BSP',
