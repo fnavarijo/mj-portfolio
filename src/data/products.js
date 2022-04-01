@@ -9,7 +9,23 @@ export const products = {
     concept: 'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790495/MJ%20Portafolio/Food%20design/15.jpg',
     conceptDescription: 'Economía lineal',
     functionality: 'El producto para food design principalmente está enfocado para introducir bebidas frías debido a la sensibilidad que tienen por el calor. Luego de haber bebido la bebida fría el producto en vez de desecharse esta puede ser disolvió en agua caliente para evitar que quede algún residuo dañino en el medio ambiente.',
-    materials: 'Gelatina y sabores artificiales'
+    materials: 'Gelatina y sabores artificiales',
+    carousel: [
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648789061/MJ%20Portafolio/Food%20design/1.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790378/MJ%20Portafolio/Food%20design/14.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791515/MJ%20Portafolio/Food%20design/Food_design_2.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790378/MJ%20Portafolio/Food%20design/13.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790378/MJ%20Portafolio/Food%20design/13.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790378/MJ%20Portafolio/Food%20design/13.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790378/MJ%20Portafolio/Food%20design/10.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790377/MJ%20Portafolio/Food%20design/5.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790495/MJ%20Portafolio/Food%20design/15.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790379/MJ%20Portafolio/Food%20design/3.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790377/MJ%20Portafolio/Food%20design/4.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790377/MJ%20Portafolio/Food%20design/8.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790379/MJ%20Portafolio/Food%20design/9.jpg',
+      'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790377/MJ%20Portafolio/Food%20design/6.jpg'
+    ]      
   },
   curvas: {
     name: 'Curvas',

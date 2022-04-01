@@ -7,6 +7,7 @@
   import ProductDimensions from '../sections/product-section/ProductDimensions.svelte';
   import ProductFunctionality from '../sections/product-section/ProductFunctionality.svelte';
   import ProductOwners from '../sections/product-section/ProductOwners.svelte'
+  import ProductCarousel from '../sections/product-section/ProductCarousel.svelte'
 
   import { products } from '../../data/products';
 
@@ -22,6 +23,9 @@
   <ProductHeaderSection title={product.name} headerImage={product.headerImage} colaboration={product.colaboration} />
   <ProductDescription briefing={product.briefing} problem={product.problem} user={product.user} />
   <ProductConcept concept={product.concept} description={product.conceptDescription} />
+  {#if product.carousel}
+    <ProductCarousel images={product.carousel} />
+  {/if}
   {#if product.dimentions}
     <ProductDimensions />
   {/if}
