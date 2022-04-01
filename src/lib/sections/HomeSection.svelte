@@ -5,10 +5,10 @@
 
 <AppSection class="home-container">
   <div class="home-section">
-    <img src={ProfileImage} alt="Fotografía de Mariajosé" class="home-section__profile">
+    <img src="https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648788220/MJ%20Portafolio/Mariajos%C3%A9_Navarijo.png" alt="Fotografía de Mariajosé" class="home-section__profile">
     <div class="home-section__description">
       <span class="home-section__description-salute">¡hola!</span>
-      <p class="home-section__description-text">Soy Mariajosé Navarijo. Me gusta armar rompecabezas porque me agrada que todo tenga fluidez y sentido.</p>
+      <p class="home-section__description-text">Soy Mariajosé Navarijo. Me gusta armar rompecabezas porque me agrada que todo tenga fluidez y sentido, y genere armonía en el diseño.</p>
     </div>
   </div>
 </AppSection>
