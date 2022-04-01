@@ -1,11 +1,12 @@
 <script>
   let className = '';
   let id = '';
+  let style = '';
 
-  export { className as class, id };
+  export { className as class, id, style };
 </script>
 
-<article {id} class={`app-article ${className}`}>
+<article {id} class={`app-article ${className}`} {style}>
   <slot />
 </article>
 

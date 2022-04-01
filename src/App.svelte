@@ -9,10 +9,10 @@
 
 <main>
   <Router url={url}>
-    <Route path="/producto/2d">
+    <Route path="/producto-2d">
       <Product2DPage />
     </Route>
-    <Route path="/producto">
+    <Route path="/producto/:name">
       <ProductPage />
     </Route>
     <Route path="/" component={HomePage} />

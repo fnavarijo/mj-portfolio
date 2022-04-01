@@ -5,13 +5,16 @@
 
   const loremIpsum = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.';
 
+  export let briefing;
+  export let problem;
+  export let user;
 </script>
 
 <AppSection class="product-description">
   <div class="product-description__container">
-    <ProductBlock title="Problema" content={loremIpsum} icon={ClockIcon} />
-    <ProductBlock title="Briefing" content={loremIpsum} icon={ClockIcon}/>
-    <ProductBlock title="Usuario" content={loremIpsum} icon={ClockIcon} />
+    <ProductBlock title="Problema" content={problem} icon="https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790172/MJ%20Portafolio/iconos/Problema.png" />
+    <ProductBlock title="Briefing" content={briefing} icon="https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790143/MJ%20Portafolio/iconos/Brief.png"/>
+    <ProductBlock title="Usuario" content={user} icon="https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790151/MJ%20Portafolio/iconos/User.png" />
   </div>
 </AppSection>
 

@@ -3,14 +3,14 @@
   import ProductBlock from '../../components/product/ProductBlock.svelte';
   import ClockIcon from '../../../assets/clock.png';
 
-  const loremIpsum = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.';
+  export let functionality;
+  export let materials;
 </script>
 
 <AppSection class="product-functionality">
   <div class="product-functionality__container">
-    <ProductBlock title="Problema" content={loremIpsum} icon={ClockIcon} />
-    <ProductBlock title="Briefing" content={loremIpsum} icon={ClockIcon}/>
-    <ProductBlock title="Usuario" content={loremIpsum} icon={ClockIcon} />
+    <ProductBlock title="Funcionamiento" content={functionality} icon="https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790124/MJ%20Portafolio/iconos/Funcion.png" />
+    <ProductBlock title="Materiales" content={materials} icon="https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790095/MJ%20Portafolio/iconos/Material.png" />
   </div>
 </AppSection>
 
@@ -21,7 +21,7 @@
   
   .product-functionality__container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     width: 80%;
     align-items: center;
     justify-content: center;

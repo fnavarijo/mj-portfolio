@@ -7,7 +7,7 @@
 </script>
 
 <div class="portfolio-card" style={`--background-url: url(${image})`}>
-  <Link to="/producto" class="portfolio-card__link">
+  <Link to={`/producto/${name.toLowerCase().replace(' ', '-')}`} class="portfolio-card__link">
     <div class="portfolio-card__overlay">
       <hr class="portfolio-card__separator" />
       <span class="portfolio-card__name">{ name }</span>

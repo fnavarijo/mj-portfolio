@@ -21,6 +21,7 @@
     width: 3rem;
     aspect-ratio: 1;
     margin-bottom: 4rem;
+    object-fit: cover;
   }
 
   .product-block__title {
