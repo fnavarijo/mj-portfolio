@@ -19,7 +19,7 @@
 </script>
 
 <div>
-  <ProductHeaderSection title={product.name} headerImage={product.headerImage} />
+  <ProductHeaderSection title={product.name} headerImage={product.headerImage} colaboration={product.colaboration} />
   <ProductDescription briefing={product.briefing} problem={product.problem} user={product.user} />
   <ProductConcept concept={product.concept} description={product.conceptDescription} />
   {#if product.dimentions}

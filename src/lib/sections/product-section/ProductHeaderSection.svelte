@@ -11,7 +11,7 @@
   <header class="product-header__header">
     <h1 class="product-header__header-heading">{title}</h1>
     {#if colaboration}
-      <p>{colaboration}</p>
+      <p class="product-header__colaboration">{colaboration}</p>
     {/if}
   </header>
 </AppSection>
@@ -35,10 +35,14 @@
 .product-header__header {
   display: flex;
   flex-direction: column;
+  color: white;
 }
 
 .product-header__header-heading {
   font-size: 3rem;
-  color: white;
+}
+
+.product-header__colaboration {
+  font-style: italic;
 }
 </style>
