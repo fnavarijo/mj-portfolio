@@ -1,9 +1,16 @@
 <script>
+  import { onMount } from 'svelte';
   import Carousel from 'svelte-carousel';
   import ProductSlideCard from "./ProductSlideCard.svelte";
   
   import LeftArrow from '../../../assets/left-arrow.png';
   import RightArrow from '../../../assets/right-arrow.png';
+
+  let isMobile = false;
+
+  onMount(function () {
+    isMobile = window.innerWidth < 864;
+  })
 
   const products = [
     {
@@ -52,7 +59,7 @@
 </script>
 
 <div class="product-slide">
-  <Carousel dots={false} particlesToShow={3} let:showPrevPage let:showNextPage>
+  <Carousel dots={false} particlesToShow={isMobile ? 1 : 3} let:showPrevPage let:showNextPage>
     <div slot="prev" on:click={showPrevPage} class="navigation-section">
       <img src={LeftArrow} alt="" class="navigation-icon">
     </div>
