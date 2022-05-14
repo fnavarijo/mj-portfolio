@@ -11,7 +11,7 @@
   <HomeSection />
   <IntroductionSection />
   <ProductsSection />
-  <PortfolioSection />
+  <!-- <PortfolioSection />
   <QuoteSection />
-  <ContactSection />
+  <ContactSection /> -->
 </div>
