@@ -3,7 +3,7 @@
   import AppSection from '../AppSection.svelte';
 </script>
 
-<AppSection class="home-container">
+<AppSection class="introduction-container">
   <div class="home-section">
     <div class="circle-decoration"></div>
     <div class="home-section__description">
@@ -16,7 +16,7 @@
 </AppSection>
 
 <style>
-:global(.home-container) {
+:global(.introduction-container) {
   display: flex;
   align-items: center;
   position: relative;
