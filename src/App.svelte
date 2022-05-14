@@ -1,8 +1,11 @@
 <script>
+  import 'animate.css';
+  
   import { Router, Link, Route } from 'svelte-routing';
   import HomePage from './lib/pages/HomePage.svelte';
   import ProductPage from './lib/pages/ProductPage.svelte';
   import Product2DPage from './lib/pages/Product2DPage.svelte';
+
 
   export let url = '';
 </script>

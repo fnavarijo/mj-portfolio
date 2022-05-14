@@ -5,11 +5,13 @@
 
 <AppSection class="home-container">
   <div class="home-section">
-    <img src="https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648788220/MJ%20Portafolio/Mariajos%C3%A9_Navarijo.png" alt="Fotografía de Mariajosé" class="home-section__profile">
+    <div class="circle-decoration"></div>
     <div class="home-section__description">
-      <span class="home-section__description-salute">¡hola!</span>
-      <p class="home-section__description-text">Soy Mariajosé Navarijo. Me gusta armar rompecabezas porque me agrada que todo tenga fluidez y sentido, y genere armonía en el diseño.</p>
+      <h2 class="home-section__name">Mariajosé</h2>
+      <hr class="home-section__separator"/>
+      <p class="home-section__description-text">Me gusta armar rompecabezas porque me agrada que todo tenga fluidez y sentido, y genere armonía en el diseño.</p>
     </div>
+    <img src="https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648788220/MJ%20Portafolio/Mariajos%C3%A9_Navarijo.png" alt="Fotografía de Mariajosé" class="home-section__profile">
   </div>
 </AppSection>
 
@@ -17,6 +19,18 @@
 :global(.home-container) {
   display: flex;
   align-items: center;
+  position: relative;
+  overflow: visible;
+}
+
+.circle-decoration {
+  background-color: #C56925;
+  opacity: 10%;
+  width: 80vw;
+  aspect-ratio: 1;
+  position: absolute;
+  left: -20%;
+  border-radius: 100%;
 }
 
 .home-section {
@@ -30,7 +44,7 @@
 .home-section__profile {
   border-radius: 100%;
   width: 50%;
-  justify-self: end;
+  justify-self: center;
   margin-right: 3rem;
 }
 
@@ -43,23 +57,24 @@
   z-index: 5;
 }
 
-.home-section__description-text {
-  position: inherit;
-  font-weight: 300;
+.home-section__name {
+  font-family: 'Cormorant Garamond', serif;
+  margin-bottom: 0.875rem;
+  font-size: 4rem;
+  text-transform: uppercase;
+  letter-spacing: 0.125rem;
 }
 
-.home-section__description-salute {
-  --salute-color: #C5692566;
+.home-section__separator {
+  width: 25%;
+  margin-bottom: 1.5rem;
+}
 
-  content: '¡hola!';
-  position: absolute;
-  font-size: 8rem;
-  font-weight: 500;
-  color: var(--salute-color);
-  z-index: 0;
-  top: 0;
-  left: 0;
-  transform: translate(-25%, -60%);
+.home-section__description-text {
+  font-family: 'Raleway', sans-serif;
+  position: inherit;
+  font-weight: 300;
+  letter-spacing: 0.25rem;
 }
 
 @media only screen and (max-width: 720px) {
@@ -78,10 +93,14 @@
     margin: 0;
   }
 
-  .home-section__description-salute {
-    font-size: 3rem;
-    transform: translate(-10%, -60%);
+  .home-section__name {
+    font-size: 2rem;
   }
+
+  .home-section__description-text {
+    font-size: 1rem;
+  }
+
 }
 /* Work on media queries */
 </style>

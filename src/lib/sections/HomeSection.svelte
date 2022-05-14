@@ -1,11 +1,33 @@
 <script>
+  import { onMount } from 'svelte';
+
   import AppSection from '../AppSection.svelte';
+
+  let shouldAnimateSubtitle = false;
+
+  function animationHandler ({ animationName }) {
+    if (animationName === 'fadeIn') {
+      shouldAnimateSubtitle = true
+    }
+  }
+
+  onMount(function () {
+    document.getElementById('title')
+      .addEventListener('animationend', animationHandler)
+  })
+
 </script>
 
 <AppSection class="home-container">
   <header class="home__header">
-    <h1 class="home__header-title">MJ.</h1>
-    <span class="home__header-subtitle">Product Designer</span>
+    <h1 class="home__header-title animate__animated animate__fadeIn" id="title">MJ.</h1>
+    <span
+      class="home__header-subtitle animate__animated"
+      class:animate__fadeIn={shouldAnimateSubtitle}
+      id="subtitle"
+    >
+      Product Designer
+    </span>
   </header>
   <div class="home__quote">
     <span>
@@ -30,6 +52,8 @@
   font-family: 'Cormorant Garamond', serif;
   font-weight: bold;
   text-align: center;
+  z-index: 10;
+  position: relative;
 }
 
 .home__header-subtitle {
@@ -37,6 +61,9 @@
   font-family: 'Raleway', sans-serif;
   letter-spacing: 0.4em;
   font-weight: 300;
+  opacity: 0;
+  position: relative;
+  z-index: 10;
 }
 
 .home__quote {
@@ -57,6 +84,7 @@
   position: absolute;
   background: #C56925;
   right: -10%;
+  z-index: 5;
 }
 
 .decoration-circle--outline {
@@ -64,6 +92,7 @@
   border: 0.5rem solid #A09F58;
   top: -5%;
   left: -5%;
+  z-index: 0;
 }
 
 
