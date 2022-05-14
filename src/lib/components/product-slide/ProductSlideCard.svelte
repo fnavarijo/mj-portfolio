@@ -1,14 +1,18 @@
 <script>
+  import { Link } from "svelte-routing";
+
   export let name;
   export let image;
 </script>
 
 <div class="slide-card" style="--image-url: url({image})" >
   <div class="slide-card__background"></div>
-  <div class="slide-card__name">
-    <span>{name}</span>
-    <hr class="slide-card__name-separator"/>
-  </div>
+  <Link to={`/producto/${name.toLowerCase().replace(/\s/g, '-')}`}>
+    <div class="slide-card__name">
+      <span>{name}</span>
+      <hr class="slide-card__name-separator"/>
+    </div>
+  </Link>
 </div>
 
 <style>
@@ -61,7 +65,7 @@
     transition: width 0.2s cubic-bezier(0.42, 0, 0, 0.99);
   }
 
-  .slide-card:hover > .slide-card__name {
+  .slide-card:hover .slide-card__name {
     visibility: visible;
     opacity: 1;
   }
