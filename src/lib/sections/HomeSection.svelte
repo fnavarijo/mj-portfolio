@@ -1,87 +1,73 @@
 <script>
-  import ProfileImage from '../img/profile.jpg';
   import AppSection from '../AppSection.svelte';
 </script>
 
 <AppSection class="home-container">
-  <div class="home-section">
-    <img src="https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648788220/MJ%20Portafolio/Mariajos%C3%A9_Navarijo.png" alt="Fotografía de Mariajosé" class="home-section__profile">
-    <div class="home-section__description">
-      <span class="home-section__description-salute">¡hola!</span>
-      <p class="home-section__description-text">Soy Mariajosé Navarijo. Me gusta armar rompecabezas porque me agrada que todo tenga fluidez y sentido, y genere armonía en el diseño.</p>
-    </div>
+  <header class="home__header">
+    <h1 class="home__header-title">MJ.</h1>
+    <span class="home__header-subtitle">Product Designer</span>
+  </header>
+  <div class="home__quote">
+    <span>
+      "Failing doesn't mean you are a failure"
+    </span>
+    <span>Brad Henry</span>
   </div>
+  <div class="decoration-circle"></div>
+  <div class="decoration-circle decoration-circle--outline"></div>
 </AppSection>
 
 <style>
 :global(.home-container) {
   display: flex;
   align-items: center;
-}
-
-.home-section {
-  width: 100vw;
-  height: 100%;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  align-items: center;
-}
-
-.home-section__profile {
-  border-radius: 100%;
-  width: 50%;
-  justify-self: end;
-  margin-right: 3rem;
-}
-
-.home-section__description {
-  width: 70%;
-  max-width: 28rem;
-  margin: 0 auto;
-  letter-spacing: 0.5ch;
   position: relative;
-  z-index: 5;
+  overflow: hidden;
 }
 
-.home-section__description-text {
-  position: inherit;
+.home__header-title {
+  font-size: 6rem;
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.home__header-subtitle {
+  font-size: 1.5rem;
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 0.4em;
   font-weight: 300;
 }
 
-.home-section__description-salute {
-  --salute-color: #d1d1d166;
-
-  content: '¡hola!';
+.home__quote {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
   position: absolute;
-  font-size: 8rem;
-  font-weight: 500;
-  color: var(--salute-color);
-  z-index: 0;
-  top: 0;
-  left: 0;
-  transform: translate(-25%, -60%);
+  bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  letter-spacing: 0.1rem;
 }
+
+.decoration-circle {
+  height: 40vh;
+  width: 40vh;
+  border-radius: 100%;
+  position: absolute;
+  background: #C56925;
+  right: -10%;
+}
+
+.decoration-circle--outline {
+  background-color: #fff;
+  border: 0.5rem solid #A09F58;
+  top: -5%;
+  left: -5%;
+}
+
 
 @media only screen and (max-width: 720px) {
-  :global(.home-container) {
-    min-height: 70vh !important;
-  }
-  
-  .home-section {
-    grid-template-columns: 1fr;
-    height: 70vh;
-    justify-content: center;
-  }
-
-  .home-section__profile {
-    justify-self: center;
-    margin: 0;
-  }
-
-  .home-section__description-salute {
-    font-size: 3rem;
-    transform: translate(-10%, -60%);
-  }
+  /* Work on media queries */
 }
-/* Work on media queries */
 </style>
