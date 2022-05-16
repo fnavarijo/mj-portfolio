@@ -1,5 +1,8 @@
 <script>
+  import { Link } from 'svelte-routing';
   import AppSection from '../../AppSection.svelte';
+
+  import LeftArrow from '../../../assets/left-arrow-white.png';
 
   export let title;
   export let headerImage;
@@ -7,7 +10,6 @@
 </script>
 
 <AppSection class="product-header" style={`--background-url: url(${headerImage})`}>
-  <div></div>
   <header class="product-header__header">
     <h1 class="product-header__header-heading">{title}</h1>
     <hr class="product-header__separator" />
@@ -15,6 +17,9 @@
       <p class="product-header__colaboration">{colaboration}</p>
     {/if}
   </header>
+  <Link to="/" class="product-header__navigation">
+    <img src={LeftArrow} alt="Back to home">
+  </Link>
 </AppSection>
 
 <style>
@@ -50,5 +55,12 @@
 
 .product-header__separator {
   margin: 1rem 0 0.5rem 0;
+}
+
+:global(.product-header__navigation) {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  width: 2rem;
 }
 </style>
