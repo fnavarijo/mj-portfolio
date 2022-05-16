@@ -31,6 +31,7 @@
   position: absolute;
   left: -20%;
   border-radius: 100%;
+  z-index: 5;
 }
 
 .home-section {
