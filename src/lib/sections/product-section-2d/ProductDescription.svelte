@@ -17,7 +17,7 @@
 
 <style>
   :global(.product-description) {
-    min-height: 50vh !important;
+    min-height: 25vh !important;
   }
   
   .product-description__container {

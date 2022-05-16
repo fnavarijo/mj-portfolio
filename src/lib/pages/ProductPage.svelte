@@ -29,5 +29,5 @@
   {#if product.dimentions}
     <ProductDimensions />
   {/if}
-  <ProductFunctionality functionality={product.functionality} materials={product.materials} />
+  <!-- <ProductFunctionality functionality={product.functionality} materials={product.materials} /> -->
 </div>
