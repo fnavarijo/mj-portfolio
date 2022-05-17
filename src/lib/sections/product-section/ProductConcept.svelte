@@ -49,4 +49,14 @@
   .product-concept__image {
     border-radius: 0.5rem;
   }
+
+  @media only screen and (max-width: 720px) {
+    .product-concept__heading {
+      font-size: 2rem;
+    }
+
+    :global(.product-concept) {
+      padding: 3rem 2rem !important;
+    }
+  }
 </style>

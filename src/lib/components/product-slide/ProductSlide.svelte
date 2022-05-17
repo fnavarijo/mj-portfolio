@@ -59,7 +59,7 @@
 </script>
 
 <div class="product-slide">
-  <Carousel dots={false} particlesToShow={isMobile ? 1 : 3} let:showPrevPage let:showNextPage>
+  <Carousel dots={false} swiping={false} particlesToShow={isMobile ? 1 : 3} let:showPrevPage let:showNextPage>
     <div slot="prev" on:click={showPrevPage} class="navigation-section">
       <img src={LeftArrow} alt="" class="navigation-icon">
     </div>

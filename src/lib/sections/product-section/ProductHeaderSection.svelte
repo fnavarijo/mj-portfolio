@@ -63,4 +63,10 @@
   left: 1rem;
   width: 2rem;
 }
+
+@media only screen and (max-width: 720px) {
+  :global(.product-header__navigation) {
+    width: 1rem;
+  }
+}
 </style>

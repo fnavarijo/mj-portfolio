@@ -86,4 +86,15 @@
     margin-bottom: 1rem;
     margin: 0.5rem auto 1rem auto;
   }
+
+  @media only screen and (max-width: 720px) {
+    :global(.product-description) {
+      grid-template-columns: 1fr;
+      padding: 3rem 2rem !important;
+    }
+
+    .product-description__header {
+      font-size: 1.5rem;
+    }
+  }
 </style>
