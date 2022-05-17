@@ -18,7 +18,7 @@
   "dependencies": {
     "animate.css": "^4.1.1",
     "lodash": "^4.17.21",
-    "svelte-carousel": "^1.0.17-rc4",
+    "svelte-carousel": "^1.0.19",
     "svelte-routing": "^1.6.0"
   }
 }
