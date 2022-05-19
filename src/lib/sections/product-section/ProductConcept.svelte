@@ -7,12 +7,12 @@
 
 <AppSection class="product-concept" style={`--background-url: url(${concept})`}>
   <header class="product-concept__header">
-    <h2 class="product-concept__heading">
+    <!-- <h2 class="product-concept__heading">
       Concepto
-    </h2>
+    </h2> -->
     <!-- <p>{description}</p> -->
   </header>
-  <img class="product-concept__image" src={concept} alt="">
+  <img class="product-concept__image" src={concept} alt="" />
 </AppSection>
 
 <style>
@@ -35,7 +35,7 @@
     /* font-size: 3rem; */
     text-transform: uppercase;
     letter-spacing: 0.3rem;
-    
+
     /* position: absolute; */
     /* bottom: 2rem;
     left: 2rem; */
