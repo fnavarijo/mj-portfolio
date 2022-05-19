@@ -1,0 +1,18 @@
+---
+layout: product
+
+title: Tulio
+header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783636/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Modelo_1.png
+concept: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783637/MJ%20Portafolio/L%C3%A1mpara%20Tulio/modelo_2.png
+
+carousel:
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783636/MJ%20Portafolio/L%C3%A1mpara%20Tulio/L%C3%A1mpara.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783636/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Modelo_1.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783637/MJ%20Portafolio/L%C3%A1mpara%20Tulio/modelo_3.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783635/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Final.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783637/MJ%20Portafolio/L%C3%A1mpara%20Tulio/modelo_2.png
+
+materials: Madera, tipo nogal, sensores, luz led y batería portátil.
+---
+
+Luminaria inspirada de la naturaleza, especialmente del caparazón de la tortuga. Busca abstraer las características esenciales de la tortuga y convertirlas en atributos funcionales. El funcionamiento e interacción del producto está enfocado en ser una lámpara touch, su peso es ligero para que su traslación sea sencilla e incluso convertirla como un producto decorativo.

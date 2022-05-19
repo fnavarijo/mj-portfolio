@@ -1,0 +1,18 @@
+---
+layout: product
+
+title: Nudo Gordiano
+header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783650/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_2.1.jpg
+concept: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783660/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_4.jpg
+
+carousel:
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783654/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_3.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783660/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_4.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783656/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_5.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783650/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_2.1.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783656/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_6.jpg
+
+materials: Material MDF de 3mm
+---
+
+Está inspirado en un recuerdo de infancia que en términos de concepto de diseño hace referencia al diseño emocional. Este busca convertir un rompecabezas 2D en un producto 3D. Se enfoca para aquellas personas que les gusta armar rompecabezas. Su funcionamiento se basa en la interconexión que puede existir entre las piezas a través de la flexibilidad que se puede generar el sistema de corte. Se usó tecnología de corte láser para generar el diseño.

@@ -1,0 +1,16 @@
+---
+layout: product
+
+title: BSP
+header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783700/MJ%20Portafolio/Bio_Solar_Protection.png
+concept: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783700/MJ%20Portafolio/Bio_Solar_Protection.png
+
+materials: Material biotecnológico
+---
+
+Se examina una diferente solución para proteger a las personas recolectoras de café. La idea es ofrecer los servicios básicos para que puedan ejercer sus labores sin dificultad y protegerlos del sol cuando trabajen. El concepto de diseño se basa en la corrección de postura de la espalda. Su funcionamiento además de mejorar la postura, el material con el que se busca desarrollar, es un biomaterial inteligente que ayuda a ofrecer frescura cuando se utiliza. En otras palabras, cuando el material tiene contacto con algo líquido, en este caso el sudor de la persona, en vez de pegarse a la piel o ropa de la persona, este se abrirá de tal manera que ayudará a pasar aire en esos espacios abiertos.
+
+- Capacidad de hidratación: 1.5 L
+- Peso: 60 gr.
+- Dimensiones: 33*18*19 cm
+- Longitud torso: 33 cm

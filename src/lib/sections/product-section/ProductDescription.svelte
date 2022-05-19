@@ -57,6 +57,7 @@
     padding: 2.5rem 3rem;
     min-height: 50%;
     border-radius: 0.5rem;
+    text-align: center;
   }
 
   .product-description__materials-header-wrapper {

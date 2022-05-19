@@ -1,0 +1,18 @@
+---
+layout: product
+
+title: Lumini
+header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783636/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Modelo_1.png
+concept: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783637/MJ%20Portafolio/L%C3%A1mpara%20Tulio/modelo_2.png
+
+carousel:
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783636/MJ%20Portafolio/L%C3%A1mpara%20Tulio/L%C3%A1mpara.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783636/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Modelo_1.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783637/MJ%20Portafolio/L%C3%A1mpara%20Tulio/modelo_3.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783635/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Final.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783637/MJ%20Portafolio/L%C3%A1mpara%20Tulio/modelo_2.png
+
+materials: Madera, tipo pino y foco con su alambre y conexión.
+---
+
+Luminaria basada en el concepto de DIY (Do it yourself). Se buscó principalmente ser un diseño enfocado en ser planos seriados y sin ningún ensamble fijo para cumplir con la teoría de DIY. Está enfocado para aquellas personas que les gusta armar sus propios productos. Su funcionamiento e interacción se basa en unir todas las piezas con base a la orientación que da la base de la lámpara.
