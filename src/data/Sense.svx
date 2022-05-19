@@ -2,11 +2,11 @@
 layout: product
 
 title: Sense
-header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648785200/MJ%20Portafolio/Infografia.png
+header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648788450/MJ%20Portafolio/Portada_senses.png
 
 concept: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648785200/MJ%20Portafolio/Infografia.png
 
-materials: No se utilizaron materiales
+materials: Se utilizará termoplástico transparente
 ---
 
 Retenedor removible que tiene como objetivo devolver la vista, enfocado a personas que por causa de alguna enfermedad o causas externas han perdido la vista por completo y su mayor deseo es ver nuevamente. ¿Sabes que uno no ve por los ojos sino por la interpretación que tiene el cerebro de las señales que envían los ojos? Es por ello que el funcionamiento principal es por medio de la manipulación de estímulos que se le puede generar a la lengua, para que estas estimulaciones las interprete el cerebro y así regresarle la vista. El retenedor se encuentra conectado con una cámara que tienen los lentes para que sea el interceptor principal de las imágenes. Todo el mecanismo se encuentra encapsulado en la parte posterior de los dientes frontales para generar mayor contacto con la parte más sensible de la lengua, la punta.
