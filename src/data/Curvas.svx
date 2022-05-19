@@ -1,0 +1,22 @@
+---
+layout: product
+
+title: Curvas
+colaboration: Taller Acá
+header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791353/MJ%20Portafolio/Mini%20parques/1.jpg
+concept: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791341/MJ%20Portafolio/Mini%20parques/3.jpg
+
+carousel:
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791348/MJ%20Portafolio/Mini%20parques/5.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791352/MJ%20Portafolio/Mini%20parques/2.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791353/MJ%20Portafolio/Mini%20parques/1.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791354/MJ%20Portafolio/Mini%20parques/4.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791341/MJ%20Portafolio/Mini%20parques/3.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783690/MJ%20Portafolio/Mini%20parques/Im%C3%A1genes%20para%20portafolio/Parques_render_4.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783687/MJ%20Portafolio/Mini%20parques/Im%C3%A1genes%20para%20portafolio/Parques_render_5.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783686/MJ%20Portafolio/Mini%20parques/Im%C3%A1genes%20para%20portafolio/Parques_render_3.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783686/MJ%20Portafolio/Mini%20parques/Im%C3%A1genes%20para%20portafolio/Parques_render_2.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783676/MJ%20Portafolio/Mini%20parques/Im%C3%A1genes%20para%20portafolio/Parques_render_1.png
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In hendrerit gravida rutrum quisque non tellus. Tristique sollicitudin nibh sit amet commodo nulla facilisi nullam. Pretium vulputate sapien nec sagittis aliquam malesuada bibendum arcu vitae. A cras semper auctor neque vitae. Augue ut lectus arcu bibendum at varius vel. Et leo duis ut diam. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan. Metus aliquam eleifend mi in nulla posuere. Euismod in pellentesque massa placerat duis ultricies lacus. Phasellus egestas tellus rutrum tellus pellentesque eu. Id venenatis a condimentum vitae. Massa massa ultricies mi quis. Cursus mattis molestie a iaculis at erat pellentesque adipiscing commodo. Mauris cursus mattis molestie a iaculis at erat pellentesque.

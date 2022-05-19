@@ -1,0 +1,25 @@
+---
+layout: product
+
+title: Food Design
+header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790377/MJ%20Portafolio/Food%20design/4.jpg
+concept: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790495/MJ%20Portafolio/Food%20design/15.jpg
+
+carousel:
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648789061/MJ%20Portafolio/Food%20design/1.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790378/MJ%20Portafolio/Food%20design/14.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791515/MJ%20Portafolio/Food%20design/Food_design_2.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790378/MJ%20Portafolio/Food%20design/13.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790378/MJ%20Portafolio/Food%20design/10.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790377/MJ%20Portafolio/Food%20design/5.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790495/MJ%20Portafolio/Food%20design/15.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790379/MJ%20Portafolio/Food%20design/3.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790377/MJ%20Portafolio/Food%20design/4.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790377/MJ%20Portafolio/Food%20design/8.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790379/MJ%20Portafolio/Food%20design/9.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790377/MJ%20Portafolio/Food%20design/6.jpg
+
+materials: Estos materiales se utilizaron como pruebas iniciales para su fabricación. Globos, pajillas, gelatina, gelatina y  agua.
+---
+
+Proyecto enfocado para personas que buscan consumir sin generar mayor impacto negativo al medio ambiente, abordando como tema principal el área Food Design. Para el funcionamiento principal del diseño se buscó desarrollar un recipiente que fuera elaborado de un material que fuera resistente a líquidos fríos. El concepto del proyecto se basa en los términos que representa la economía lineal (producir - usar - eliminar). Así que el propósito fue generar un producto que tenga un inicio y un final. Cuando la persona termine la bebida, existen dos opciones para terminar su ciclo de vida. El primero que la persona lo ingiere, porque el vaso es comestible y con sabor a café y el segundo, en caso de desecharlo, se disuelve en agua caliente para evitar la obsolescencia programada que tienen los recipientes de un solo uso. La interacción es dependiente a las veces que interactúen con el producto. Por ser un material sensible a la temperatura caliente, en cuanto más lo utilicen, su resistencia va reduciendo, así que lo recomendable es servirse máximo dos veces en el mismo. Las dimensiones de tamaño varían, se basa mucho del tamaño que se busca generar, así que es anexo al gusto de la persona.
