@@ -2,15 +2,13 @@
   import AppSection from '../AppSection.svelte';
   import CarrouselContainer from '../components/carousel/CarouselContainer.svelte';
   import ProductSlide from '../components/product-slide/ProductSlide.svelte';
-
-  const products = ['Food Design', 'Curvas', 'Tulio', 'Rompecabezas', 'Nudo Gordiano', 'Corrector de postura', 'BSP', 'Sense'];
 </script>
 
 <AppSection class="product-section">
-  <div class="circle-decoration"></div>
+  <div class="circle-decoration" />
   <header class="product__header">
     <h2 class="product__title">Proyectos</h2>
-    <hr class="product__separator"/>
+    <hr class="product__separator" />
   </header>
   <ProductSlide />
 </AppSection>
@@ -37,14 +35,14 @@
     bottom: -60%;
     right: -5%;
     transform: translate(-50%, -50%);
-    background-color: #A09F58;
+    background-color: #a09f58;
     opacity: 10%;
     z-index: 0;
   }
 
   .product__header {
     margin-bottom: 4rem;
-    position:relative;
+    position: relative;
     z-index: 10;
   }
 
@@ -58,5 +56,4 @@
     width: 50%;
     margin: auto;
   }
-
 </style>
