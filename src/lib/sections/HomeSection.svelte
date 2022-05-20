@@ -1,6 +1,10 @@
 <script>
   import { onMount } from 'svelte';
 
+  import LinkedInLogo from '../../assets/linkedin-logo.png';
+  import BehanceLogo from '../../assets/behance.png';
+
+  import SocialLink from '../components/common/SocialLink.svelte';
   import AppSection from '../AppSection.svelte';
 
   let shouldAnimateSubtitle = false;
@@ -34,6 +38,18 @@
   <div class="home__quote">
     <span> "Failing doesn't mean you are a failure" </span>
     <span>Brad Henry</span>
+  </div>
+  <div class="home__social">
+    <SocialLink
+      link="https://www.behance.net/mariajonavarij"
+      image={BehanceLogo}
+      class="home__social-icon"
+    />
+    <SocialLink
+      link="www.linkedin.com/in/mariajosenavarijo"
+      image={LinkedInLogo}
+      class="home__social-icon"
+    />
   </div>
   <div class="decoration-circle" />
   <div class="decoration-circle decoration-circle--outline" />
@@ -93,6 +109,17 @@
     top: -5%;
     left: -5%;
     z-index: 0;
+  }
+
+  .home__social {
+    display: flex;
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+  }
+
+  :global(.home__social-icon) {
+    margin-right: 1rem;
   }
 
   @media only screen and (max-width: 720px) {
