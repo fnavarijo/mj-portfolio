@@ -46,7 +46,7 @@
       class="home__social-icon"
     />
     <SocialLink
-      link="www.linkedin.com/in/mariajosenavarijo"
+      link="https://www.linkedin.com/in/mariajosenavarijo"
       image={LinkedInLogo}
       class="home__social-icon"
     />
