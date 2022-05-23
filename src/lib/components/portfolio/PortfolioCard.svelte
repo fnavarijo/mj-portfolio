@@ -6,19 +6,20 @@
   export let description;
   export let type = '3D';
 
-  function getRoute () {
-    return type === '3D'
-      ? 'producto'
-      : 'producto-2d';
+  function getRoute() {
+    return type === '3D' ? 'producto' : 'producto-2d';
   }
 </script>
 
 <div class="portfolio-card" style={`--background-url: url(${image})`}>
-  <Link to={`/${getRoute()}/${name.toLowerCase().replace(/\s/g, '-')}`} class="portfolio-card__link">
+  <Link
+    to={`/${getRoute()}/${name.toLowerCase().replace(/\s/g, '-')}`}
+    class="portfolio-card__link"
+  >
     <div class="portfolio-card__overlay">
       <hr class="portfolio-card__separator" />
-      <span class="portfolio-card__name">{ name }</span>
-      <p class="portfolio-card__description"> {description} </p>
+      <span class="portfolio-card__name">{name}</span>
+      <p class="portfolio-card__description">{description}</p>
       <button class="portfolio-card__button">Visitar</button>
     </div>
   </Link>
@@ -27,7 +28,7 @@
 <style>
   .portfolio-card {
     --background-url: url('https://res.cloudinary.com/dkvtpo8w1/image/upload/c_fill,h_310,w_270/v1648783630/MJ%20Portafolio/Colgador%20rompecabezas/render_1.png');
-    
+
     width: 100%;
     background: var(--background-url);
     background-position: center center;
@@ -42,7 +43,8 @@
 
   .portfolio-card__overlay:hover {
     opacity: 1;
-    background: url('https://res.cloudinary.com/dkvtpo8w1/image/upload/c_scale,w_1024/v1648520329/MJ%20Portafolio/sumaid-pal-singh-bakshi-x7dnSyIG-Q4-unsplash.jpg'), rgba(red, green, blue, 0.5);
+    background: url('https://res.cloudinary.com/dkvtpo8w1/image/upload/c_scale,w_1024/v1648520329/MJ%20Portafolio/sumaid-pal-singh-bakshi-x7dnSyIG-Q4-unsplash.jpg'),
+      rgba(red, green, blue, 0.5);
   }
 
   .portfolio-card__overlay {
@@ -78,7 +80,6 @@
     font-weight: bold;
     margin-bottom: 1.5rem;
     text-transform: uppercase;
-    font-family: 'Poppins', sans-serif;
     font-weight: 500;
   }
 
@@ -94,7 +95,6 @@
     border-radius: 2.1875rem;
     padding: 0.25rem 0.75rem;
     font-weight: bold;
-    font-family: 'Poppins', sans-serif;
     font-weight: 500;
   }
 

@@ -45,16 +45,15 @@
     display: flex;
     flex-direction: column;
     color: white;
-    font-family: 'Cormorant Garamond', serif;
   }
 
   .product-header__header-heading {
     font-size: 3rem;
+    text-transform: uppercase;
   }
 
   .product-header__colaboration {
     font-style: italic;
-    font-family: 'Raleway', sans-serif;
     text-align: center;
   }
 

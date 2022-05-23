@@ -46,7 +46,6 @@
   }
 
   .product-description__header {
-    font-family: 'Cormorant Garamond', serif;
     font-size: 2rem;
     text-transform: uppercase;
     letter-spacing: 0.3rem;
@@ -65,7 +64,7 @@
   }
 
   .product-description__materials-header {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: var(--heading-font);
     font-size: 1.5rem;
     text-transform: uppercase;
     letter-spacing: 0.2rem;
@@ -76,10 +75,6 @@
     width: 50%;
     margin-bottom: 1rem;
     margin: 0.5rem auto 1rem auto;
-  }
-
-  .product-description__content {
-    font-family: 'Raleway', sans-serif;
   }
 
   @media only screen and (max-width: 720px) {

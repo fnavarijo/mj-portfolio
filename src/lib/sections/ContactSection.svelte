@@ -1,25 +1,34 @@
 <script>
-  import AppSection from "../AppSection.svelte";
+  import AppSection from '../AppSection.svelte';
   import ContactSocialMedia from '../components/contact/ContactSocialMedia.svelte';
-  import ContactTriggerButton from "../components/contact/ContactTriggerButton.svelte";
+  import ContactTriggerButton from '../components/contact/ContactTriggerButton.svelte';
   import LinkedInLogo from '../../assets/linkedin-logo.png';
   import EmailLogo from '../../assets/email-logo.png';
-  
+
   let shouldDisplaySocialInformation = false;
 
-  function handleSocialMediaDisplay (event) {
+  function handleSocialMediaDisplay(event) {
     shouldDisplaySocialInformation = event.detail;
   }
 </script>
 
 <AppSection class="contact-section">
-  <ContactTriggerButton on:change={handleSocialMediaDisplay} /> 
+  <ContactTriggerButton on:change={handleSocialMediaDisplay} />
   {#if !shouldDisplaySocialInformation}
     <p class="contact-section__title">Contáctame</p>
   {:else}
     <div class="contact-section__social-media">
-      <ContactSocialMedia name="LinkedIn" logo={LinkedInLogo} url="https://www.linkedin.com/in/mariajosé-navarijo-a817b41b4" />
-      <ContactSocialMedia name="Correo" logo={EmailLogo} type="mail" url="mj.navarijo1900@gmail.com" />
+      <ContactSocialMedia
+        name="LinkedIn"
+        logo={LinkedInLogo}
+        url="https://www.linkedin.com/in/mariajosé-navarijo-a817b41b4"
+      />
+      <ContactSocialMedia
+        name="Correo"
+        logo={EmailLogo}
+        type="mail"
+        url="mj.navarijo1900@gmail.com"
+      />
     </div>
   {/if}
 </AppSection>
@@ -40,7 +49,6 @@
     text-transform: uppercase;
     letter-spacing: 10%;
     font-size: 1.5rem;
-    font-family: 'Poppins', sans-serif;
     font-weight: 500;
   }
 
@@ -52,9 +60,8 @@
 
   @media only screen and (max-width: 720px) {
     .contact-section__social-media {
-      grid-template-columns:  1fr;
+      grid-template-columns: 1fr;
       gap: 1rem;
     }
   }
-
 </style>

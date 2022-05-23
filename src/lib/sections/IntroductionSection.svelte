@@ -31,7 +31,7 @@
   }
 
   .circle-decoration {
-    background-color: #c56925;
+    background-color: var(--primary-500);
     opacity: 10%;
     width: 80vw;
     aspect-ratio: 1;
@@ -66,7 +66,6 @@
   }
 
   .home-section__name {
-    font-family: 'Cormorant Garamond', serif;
     margin-bottom: 0.875rem;
     font-size: 4rem;
     text-transform: uppercase;
@@ -79,7 +78,6 @@
   }
 
   .home-section__description-text {
-    font-family: 'Raleway', sans-serif;
     position: inherit;
     font-weight: 300;
     letter-spacing: 0.25rem;

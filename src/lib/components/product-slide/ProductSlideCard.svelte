@@ -1,22 +1,22 @@
 <script>
-  import { Link } from "svelte-routing";
+  import { Link } from 'svelte-routing';
 
   export let name;
   export let image;
 </script>
 
-<div class="slide-card" style="--image-url: url({image})" >
-  <div class="slide-card__background"></div>
+<div class="slide-card" style="--image-url: url({image})">
+  <div class="slide-card__background" />
   <Link to={`/producto/${name.toLowerCase().replace(/\s/g, '-')}`}>
     <div class="slide-card__name">
       <span>{name}</span>
-      <hr class="slide-card__name-separator"/>
+      <hr class="slide-card__name-separator" />
     </div>
   </Link>
 </div>
 
 <style>
-  .slide-card {   
+  .slide-card {
     height: 40rem;
     padding: 0 1rem;
     position: relative;
@@ -39,8 +39,8 @@
     width: calc(100% - 2rem);
     margin-left: 1rem;
     background-color: rgba(33, 30, 28, 0.6);
-    color: #F3F2F2;
-    font-family: 'Cormorant Garamond', serif;
+    color: #f3f2f2;
+    font-family: var(--heading-font);
     font-size: 2rem;
     text-transform: uppercase;
     font-weight: bold;

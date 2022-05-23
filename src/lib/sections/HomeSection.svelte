@@ -65,7 +65,6 @@
 
   .home__header-title {
     font-size: 6rem;
-    font-family: 'Cormorant Garamond', serif;
     font-weight: bold;
     text-align: center;
     z-index: 10;
@@ -74,7 +73,6 @@
 
   .home__header-subtitle {
     font-size: 1.5rem;
-    font-family: 'Raleway', sans-serif;
     letter-spacing: 0.4em;
     font-weight: 300;
     opacity: 0;
@@ -83,7 +81,6 @@
   }
 
   .home__quote {
-    font-family: 'Raleway', sans-serif;
     font-weight: 300;
     position: absolute;
     bottom: 1rem;
@@ -98,14 +95,14 @@
     width: 40vh;
     border-radius: 100%;
     position: absolute;
-    background: #c56925;
+    background: var(--primary-500);
     right: -10%;
     z-index: 5;
   }
 
   .decoration-circle--outline {
     background-color: #fff;
-    border: 0.5rem solid #a09f58;
+    border: 0.5rem solid var(--secondary-500);
     top: -5%;
     left: -5%;
     z-index: 0;

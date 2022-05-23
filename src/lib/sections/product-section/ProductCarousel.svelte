@@ -78,7 +78,6 @@
   }
 
   .product-carousel__header {
-    font-family: 'Cormorant Garamond', serif;
     text-transform: uppercase;
     letter-spacing: 0.3rem;
     /* margin-left: 2rem; */

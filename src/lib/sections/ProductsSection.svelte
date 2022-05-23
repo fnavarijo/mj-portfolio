@@ -48,7 +48,6 @@
 
   .product__title {
     text-transform: uppercase;
-    font-family: 'Cormorant Garamond', serif;
     font-size: 4rem;
   }
 
