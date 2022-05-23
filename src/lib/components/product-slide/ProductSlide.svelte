@@ -28,20 +28,6 @@
         'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791341/MJ%20Portafolio/Mini%20parques/3.jpg',
     },
     {
-      name: 'Tulio',
-      description:
-        'Luminaria inspirada de la naturaleza, especialmente del caparazón de la tortuga. Busca abstraer las características esenciales de la tortuga y convertirlas en atributos funcionales.',
-      image:
-        'https://res.cloudinary.com/dkvtpo8w1/image/upload/c_fill,h_405,w_270/v1648783637/MJ%20Portafolio/L%C3%A1mpara%20Tulio/modelo_3.png',
-    },
-    {
-      name: 'Lumini',
-      description:
-        'Su enfoque principal es desarrollar un colgador cumpliendo con el requisito de que sus ensambles funcionen como el principio de un rompecabezas.',
-      image:
-        'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1652984211/MJ%20Portafolio/Lumini/2.jpg ',
-    },
-    {
       name: 'Nudo Gordiano',
       description:
         'Está inspirado en un recuerdo de infancia que en términos de diseño hace referencia al diseño emocional. Este busca convertir un rompecabezas 2D a un producto 3D.',
@@ -54,6 +40,20 @@
         'Es un corrector portátil que busca corregir y prevenir enfermedades a futuro que puede llegar a adquirir tras haber tenido una mala postura.',
       image:
         'https://res.cloudinary.com/dkvtpo8w1/image/upload/c_fill,h_405,w_270,x_0/v1648783635/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/test.142.jpg',
+    },
+    {
+      name: 'Tulio',
+      description:
+        'Luminaria inspirada de la naturaleza, especialmente del caparazón de la tortuga. Busca abstraer las características esenciales de la tortuga y convertirlas en atributos funcionales.',
+      image:
+        'https://res.cloudinary.com/dkvtpo8w1/image/upload/c_fill,h_405,w_270/v1648783637/MJ%20Portafolio/L%C3%A1mpara%20Tulio/modelo_3.png',
+    },
+    {
+      name: 'Lumini',
+      description:
+        'Su enfoque principal es desarrollar un colgador cumpliendo con el requisito de que sus ensambles funcionen como el principio de un rompecabezas.',
+      image:
+        'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1652984211/MJ%20Portafolio/Lumini/2.jpg ',
     },
     {
       name: 'BSP',

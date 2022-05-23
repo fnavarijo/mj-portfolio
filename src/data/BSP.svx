@@ -3,7 +3,8 @@ layout: product
 
 title: BSP
 header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783700/MJ%20Portafolio/Bio_Solar_Protection.png
-concept: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783700/MJ%20Portafolio/Bio_Solar_Protection.png
+concept:
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783700/MJ%20Portafolio/Bio_Solar_Protection.png
 
 materials: Material biotecnológico
 ---
@@ -12,5 +13,5 @@ Se examina una diferente solución para proteger a las personas recolectoras de 
 
 - Capacidad de hidratación: 1.5 L
 - Peso: 60 gr.
-- Dimensiones: 33*18*19 cm
+- Dimensiones: 33 x 18 x 19 cm
 - Longitud torso: 33 cm

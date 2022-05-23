@@ -3,7 +3,8 @@ layout: product
 
 title: Lumini
 header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1652984211/MJ%20Portafolio/Lumini/2.jpg
-concept: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1652984211/MJ%20Portafolio/Lumini/5.jpg
+concept:
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1652984211/MJ%20Portafolio/Lumini/5.jpg
 
 carousel:
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1652984211/MJ%20Portafolio/Lumini/5.jpg

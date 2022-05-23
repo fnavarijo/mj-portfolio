@@ -4,7 +4,8 @@ layout: product
 title: Sense
 header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648788450/MJ%20Portafolio/Portada_senses.png
 
-concept: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648785200/MJ%20Portafolio/Infografia.png
+concept:
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648785200/MJ%20Portafolio/Infografia.png
 
 materials: Se utilizará termoplástico transparente
 ---

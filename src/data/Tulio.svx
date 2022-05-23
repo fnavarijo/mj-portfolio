@@ -3,7 +3,8 @@ layout: product
 
 title: Tulio
 header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783636/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Modelo_1.png
-concept: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783637/MJ%20Portafolio/L%C3%A1mpara%20Tulio/modelo_2.png
+concept:
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783637/MJ%20Portafolio/L%C3%A1mpara%20Tulio/modelo_2.png
 
 carousel:
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783636/MJ%20Portafolio/L%C3%A1mpara%20Tulio/L%C3%A1mpara.png

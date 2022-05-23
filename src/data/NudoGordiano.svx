@@ -3,7 +3,17 @@ layout: product
 
 title: Nudo Gordiano
 header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783650/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_2.1.jpg
-concept: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783660/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_4.jpg
+
+concept:
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269404/MJ%20Portafolio/Nudo%20gordiano/Planos/1.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269380/MJ%20Portafolio/Nudo%20gordiano/Planos/2.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269382/MJ%20Portafolio/Nudo%20gordiano/Planos/3.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269384/MJ%20Portafolio/Nudo%20gordiano/Planos/4.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269378/MJ%20Portafolio/Nudo%20gordiano/Planos/5.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269403/MJ%20Portafolio/Nudo%20gordiano/Planos/6.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269402/MJ%20Portafolio/Nudo%20gordiano/Planos/7.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269378/MJ%20Portafolio/Nudo%20gordiano/Planos/8.png
+  # - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269377/MJ%20Portafolio/Nudo%20gordiano/Planos/9.png
 
 carousel:
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783654/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_3.jpg

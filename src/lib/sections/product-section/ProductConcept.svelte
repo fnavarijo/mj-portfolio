@@ -1,18 +1,33 @@
 <script>
+  import Carousel from 'svelte-carousel';
+
+  import LeftArrow from '../../../assets/left-arrow.png';
+  import RightArrow from '../../../assets/right-arrow.png';
+
   import AppSection from '../../AppSection.svelte';
 
-  export let concept;
-  export let description;
+  export let concept = [];
 </script>
 
 <AppSection class="product-concept" style={`--background-url: url(${concept})`}>
-  <header class="product-concept__header">
-    <!-- <h2 class="product-concept__heading">
-      Concepto
-    </h2> -->
-    <!-- <p>{description}</p> -->
-  </header>
-  <img class="product-concept__image" src={concept} alt="" />
+  <Carousel
+    arrows={concept.length > 1}
+    dots={false}
+    swiping={false}
+    let:showPrevPage
+    let:showNextPage
+  >
+    <div slot="prev" on:click={showPrevPage} class="navigation-section">
+      <img src={LeftArrow} alt="" class="navigation-icon" />
+    </div>
+
+    {#each concept as conceptImage}
+      <img class="product-concept__image" src={conceptImage} alt="" />
+    {/each}
+    <div slot="next" on:click={showNextPage} class="navigation-section">
+      <img src={RightArrow} alt="" class="navigation-icon" />
+    </div>
+  </Carousel>
 </AppSection>
 
 <style>
@@ -30,31 +45,22 @@
     position: relative;
   }
 
-  .product-concept__header {
-    font-family: 'Cormorant Garamond', serif;
-    /* font-size: 3rem; */
-    text-transform: uppercase;
-    letter-spacing: 0.3rem;
-
-    /* position: absolute; */
-    /* bottom: 2rem;
-    left: 2rem; */
-    /* color: white; */
-  }
-
-  .product-concept__heading {
-    font-size: 3rem;
-  }
-
   .product-concept__image {
     border-radius: 0.5rem;
   }
 
-  @media only screen and (max-width: 720px) {
-    .product-concept__heading {
-      font-size: 2rem;
-    }
+  .navigation-icon {
+    width: 2rem;
+    cursor: pointer;
+  }
 
+  .navigation-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  @media only screen and (max-width: 720px) {
     :global(.product-concept) {
       padding: 3rem 2rem !important;
     }

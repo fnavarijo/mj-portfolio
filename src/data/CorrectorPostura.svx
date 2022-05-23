@@ -4,7 +4,8 @@ layout: product
 title: Corrector de postura
 colaboration: Paola Cabrera, Roberto Donis, Abner Coc, Mariajosé Navarijo
 header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783633/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/test.133.jpg
-concept: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783646/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/46.png
+concept:
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783646/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/46.png
 
 carousel:
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783635/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/test.142.jpg
