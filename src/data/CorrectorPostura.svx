@@ -5,7 +5,13 @@ title: Corrector de postura
 colaboration: Paola Cabrera, Roberto Donis, Abner Coc, Mariajosé Navarijo
 header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783633/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/test.133.jpg
 concept:
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783646/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/46.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653268968/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/Planos/Portada.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653268969/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/Planos/1.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653268969/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/Planos/2.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653268966/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/Planos/3.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653268971/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/Planos/4.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653268969/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/Planos/5.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653268967/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/Planos/6.png
 
 carousel:
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783635/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/test.142.jpg
