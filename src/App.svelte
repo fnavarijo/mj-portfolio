@@ -1,5 +1,6 @@
 <script>
   import 'animate.css';
+  import './style/main.css';
 
   import { Router, Link, Route } from 'svelte-routing';
   import HomePage from './lib/pages/HomePage.svelte';
@@ -53,9 +54,3 @@
     <Route path="/" component={HomePage} />
   </Router>
 </main>
-
-<style>
-  * {
-    font-family: 'Montserrat', sans-serif;
-  }
-</style>

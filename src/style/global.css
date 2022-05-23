@@ -1,0 +1,23 @@
+:root {
+  /* Fonts */
+  --heading-font: 'Cormorant Garamond', serif;
+  --body-font: 'Raleway', sans-serif;
+
+  /* Colors */
+  --primary-500: #c56925;
+  --secondary-500: #a09f58;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--heading-font);
+}
+
+html,
+body {
+  font-family: var(--body-font);
+}
