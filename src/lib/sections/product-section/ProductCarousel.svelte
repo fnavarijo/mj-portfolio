@@ -112,7 +112,7 @@
   .image-viewer__image {
     width: 60%;
     height: 60%;
-    object-fit: cover;
+    object-fit: contain;
   }
 
   .image-viewer__close {
