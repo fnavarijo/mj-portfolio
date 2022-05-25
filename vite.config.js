@@ -1,13 +1,6 @@
 import { defineConfig } from 'vite';
-import { fileURLToPath } from 'url';
-import { resolve, dirname } from 'path';
 import { svelte } from '@sveltejs/vite-plugin-svelte';
 import { mdsvex } from 'mdsvex';
-
-const _dirname =
-  typeof __dirname !== 'undefined'
-    ? __dirname
-    : dirname(fileURLToPath(import.meta.url));
 
 // https://vitejs.dev/config/
 export default defineConfig({
@@ -19,13 +12,6 @@ export default defineConfig({
       }),
     }),
   ],
-  build: {
-    rollupOptions: {
-      input: {
-        main: resolve(_dirname, 'index.html'),
-      },
-    },
-  },
   optimizeDeps: {
     include: ['lodash.get', 'lodash.isequal', 'lodash.clonedeep'],
   },
