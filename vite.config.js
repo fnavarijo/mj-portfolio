@@ -23,8 +23,6 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(_dirname, 'index.html'),
-        producto: resolve(_dirname, 'producto/index.html'),
-        foodDesign: resolve(_dirname, 'producto/food-design.html'),
       },
     },
   },
