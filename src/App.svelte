@@ -21,9 +21,6 @@
 
 <main>
   <Router {url}>
-    <Route path="/producto-2d/:name">
-      <Product2DPage />
-    </Route>
     <Route path="/producto/food-design">
       <FoodDesign />
     </Route>
@@ -48,9 +45,6 @@
     <Route path="/producto/sense">
       <Sense />
     </Route>
-    <!-- <Route path="/producto/:name">
-      <ProductPage />
-    </Route> -->
     <Route path="/" component={HomePage} />
   </Router>
 </main>
