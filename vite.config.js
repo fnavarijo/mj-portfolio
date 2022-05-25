@@ -24,7 +24,7 @@ export default defineConfig({
       input: {
         main: resolve(_dirname, 'index.html'),
         producto: resolve(_dirname, 'producto/index.html'),
-        'producto-2d': resolve(_dirname, 'producto-2d/index.html'),
+        foodDesign: resolve(_dirname, 'producto/food-design.html'),
       },
     },
   },
