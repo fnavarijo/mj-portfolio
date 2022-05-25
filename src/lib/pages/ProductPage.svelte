@@ -9,6 +9,12 @@
   import ProductOwners from '../sections/product-section/ProductOwners.svelte';
   import ProductCarousel from '../sections/product-section/ProductCarousel.svelte';
 
+  onMount(() => {
+    // On route change, it keeps the same Y position.
+    // This resets the position on mount
+    window.scrollTo(0, 0);
+  });
+
   export let title;
   export let header;
   export let colaboration = '';
