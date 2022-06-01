@@ -56,19 +56,19 @@
         'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1652984211/MJ%20Portafolio/Lumini/2.jpg ',
     },
     {
-      name: 'BSP',
-      description:
-        'Se examina una diferente solución para proteger a las personas recolectoras de café. La idea es ofrecer los servicios básicos para que puedan ejercer sus labores sin dificultad.',
-      image:
-        'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648787941/MJ%20Portafolio/Funci%C3%B3n1.png',
-      type: '2D',
-    },
-    {
       name: 'Sense',
       description:
         'Retenedor removible que tiene como objetivo devolver la vista a personas que han perdido por completo su vista. Funciona por medio de la manipulación de estímulos de la lengua.',
       image:
         'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648788450/MJ%20Portafolio/Portada_senses.png',
+      type: '2D',
+    },
+    {
+      name: 'BSP',
+      description:
+        'Se examina una diferente solución para proteger a las personas recolectoras de café. La idea es ofrecer los servicios básicos para que puedan ejercer sus labores sin dificultad.',
+      image:
+        'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648787941/MJ%20Portafolio/Funci%C3%B3n1.png',
       type: '2D',
     },
   ];

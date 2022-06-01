@@ -4,7 +4,15 @@ layout: product
 title: Tulio
 header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783636/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Modelo_1.png
 concept:
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783637/MJ%20Portafolio/L%C3%A1mpara%20Tulio/modelo_2.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654045878/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Proceso%20creativo/1.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654045879/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Proceso%20creativo/2.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654045876/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Proceso%20creativo/3.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654045875/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Proceso%20creativo/4.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654045875/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Proceso%20creativo/5.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654045875/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Proceso%20creativo/6.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654045875/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Proceso%20creativo/7.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654045875/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Proceso%20creativo/8.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654045879/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Proceso%20creativo/9.png
 
 carousel:
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783636/MJ%20Portafolio/L%C3%A1mpara%20Tulio/L%C3%A1mpara.png
