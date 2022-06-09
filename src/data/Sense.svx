@@ -5,22 +5,20 @@ title: Sense
 header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648788450/MJ%20Portafolio/Portada_senses.png
 
 concept:
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648785200/MJ%20Portafolio/Infografia.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060051/MJ%20Portafolio/Sense/1.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060058/MJ%20Portafolio/Sense/2.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060055/MJ%20Portafolio/Sense/3.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060061/MJ%20Portafolio/Sense/4.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654733128/MJ%20Portafolio/Sense/Infografia.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654732586/MJ%20Portafolio/Sense/1.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654732369/MJ%20Portafolio/Sense/Fase_1.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060064/MJ%20Portafolio/Sense/5.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060066/MJ%20Portafolio/Sense/6.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060064/MJ%20Portafolio/Sense/7.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060067/MJ%20Portafolio/Sense/8.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060061/MJ%20Portafolio/Sense/9.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654732718/MJ%20Portafolio/Sense/2.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060068/MJ%20Portafolio/Sense/11.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060467/MJ%20Portafolio/Sense/12.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060492/MJ%20Portafolio/Sense/13.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060506/MJ%20Portafolio/Sense/14.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060517/MJ%20Portafolio/Sense/15.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060526/MJ%20Portafolio/Sense/16.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654732891/MJ%20Portafolio/Sense/Slide19.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060539/MJ%20Portafolio/Sense/17.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060554/MJ%20Portafolio/Sense/18.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060568/MJ%20Portafolio/Sense/19.png
@@ -32,13 +30,18 @@ concept:
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060659/MJ%20Portafolio/Sense/25.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060676/MJ%20Portafolio/Sense/26.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060689/MJ%20Portafolio/Sense/27.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060050/MJ%20Portafolio/Sense/28.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060069/MJ%20Portafolio/Sense/29.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060067/MJ%20Portafolio/Sense/30.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060066/MJ%20Portafolio/Sense/31.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654060064/MJ%20Portafolio/Sense/32.png
 
-materials: Se utilizará termoplástico transparente
+
+materials:
+  - Se utilizará termoplástico transparente 
 ---
 
-Retenedor removible que tiene como objetivo devolver la vista, enfocado a personas que por causa de alguna enfermedad o causas externas han perdido la vista por completo y su mayor deseo es ver nuevamente. ¿Sabes que uno no ve por los ojos sino por la interpretación que tiene el cerebro de las señales que envían los ojos? Es por ello que el funcionamiento principal es por medio de la manipulación de estímulos que se le puede generar a la lengua, para que estas estimulaciones las interprete el cerebro y así regresarle la vista. El retenedor se encuentra conectado con una cámara que tienen los lentes para que sea el interceptor principal de las imágenes. Todo el mecanismo se encuentra encapsulado en la parte posterior de los dientes frontales para generar mayor contacto con la parte más sensible de la lengua, la punta.
+¿Sabes que uno no ve por los ojos sino por la interpretación que tiene el cerebro de las señales que envían los ojos?
+
+<br />
+
+Este retenedor removible tiene como objetivo **devolver la vista a través de la estimulación en la lengua** para que el cerebro decodifique estas señales y así la persona pueda tener vista nuevamente. Está **enfocado para personas que por causa de alguna enfermedad** o causas externas **han perdido la vista por completo y su mayor deseo es ver nuevamente**. 
+
+<br />
+
+El retenedor se encuentra conectado con una cámara que tienen los lentes para que sea el interceptor principal de las imágenes. Todo **el mecanismo se encuentra encapsulado en la parte posterior de los dientes frontales para generar mayor contacto** con la parte más sensible de la lengua, la punta.

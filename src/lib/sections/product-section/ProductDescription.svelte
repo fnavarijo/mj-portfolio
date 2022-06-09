@@ -19,7 +19,7 @@
       <span class="product-description__materials-header">Materiales</span>
       <hr class="product-description__materials-separator" />
     </div>
-    <p>
+    <p class="product-description__materials-list">
       <slot name="materials" />
     </p>
   </aside>
@@ -57,6 +57,9 @@
     min-height: 50%;
     border-radius: 0.5rem;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
   }
 
   .product-description__materials-header-wrapper {
@@ -75,6 +78,10 @@
     width: 50%;
     margin-bottom: 1rem;
     margin: 0.5rem auto 1rem auto;
+  }
+
+  .product-description__materials-list {
+    text-align: left;
   }
 
   @media only screen and (max-width: 720px) {

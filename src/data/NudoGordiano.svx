@@ -16,13 +16,23 @@ concept:
   # - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269377/MJ%20Portafolio/Nudo%20gordiano/Planos/9.png
 
 carousel:
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783654/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_3.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783660/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_4.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783656/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_5.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783650/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_2.1.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783656/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_6.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729432/MJ%20Portafolio/Nudo%20gordiano/Galeria/1.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729437/MJ%20Portafolio/Nudo%20gordiano/Galeria/2.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729640/MJ%20Portafolio/Nudo%20gordiano/Galeria/3.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729437/MJ%20Portafolio/Nudo%20gordiano/Galeria/4.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729430/MJ%20Portafolio/Nudo%20gordiano/Galeria/5.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729430/MJ%20Portafolio/Nudo%20gordiano/Galeria/6.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729432/MJ%20Portafolio/Nudo%20gordiano/Galeria/7.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729431/MJ%20Portafolio/Nudo%20gordiano/Galeria/8.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729431/MJ%20Portafolio/Nudo%20gordiano/Galeria/9.jpg
 
-materials: Material MDF de 3mm
+
+materials:
+  - MDF de 3mm
 ---
 
-Está inspirado en un recuerdo de infancia que en términos de concepto de diseño hace referencia al diseño emocional. Este busca convertir un rompecabezas 2D en un producto 3D. Se enfoca para aquellas personas que les gusta armar rompecabezas. Su funcionamiento se basa en la interconexión que puede existir entre las piezas a través de la flexibilidad que se puede generar el sistema de corte. Se usó tecnología de corte láser para generar el diseño.
+Está inspirado en un **recuerdo de infancia** que en términos de concepto hace referencia al **diseño emocional**. Este busca **convertir un rompecabezas 2D en un producto 3D**. Se enfoca para aquellas personas que les gusta armar rompecabezas.
+
+<br />
+
+Su **funcionamiento se basa en** la interconexión que puede existir entre las piezas a través de **la flexibilidad que se puede generar el sistema de corte**. Se usó tecnología de corte láser para generar el diseño.

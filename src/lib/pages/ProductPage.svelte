@@ -20,7 +20,8 @@
   export let colaboration = '';
   export let concept;
   export let carousel;
-  export let materials;
+  export let materials = [];
+  export let bigImage;
 </script>
 
 <div>
@@ -28,9 +29,17 @@
   <div class="product-content">
     <ProductDescription>
       <slot />
-      <div slot="materials">{materials}</div>
+      <ul slot="materials">
+        {#each materials as material}
+          <li>{material}</li>
+        {/each}
+      </ul>
     </ProductDescription>
     <ProductConcept {concept} description={''} />
+    {#if bigImage}
+      <img src={bigImage} alt="" />
+    {/if}
+
     {#if carousel}
       <ProductCarousel images={carousel} />
     {/if}

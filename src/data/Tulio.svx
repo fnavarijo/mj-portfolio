@@ -21,7 +21,16 @@ carousel:
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783635/MJ%20Portafolio/L%C3%A1mpara%20Tulio/Final.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783637/MJ%20Portafolio/L%C3%A1mpara%20Tulio/modelo_2.png
 
-materials: Madera, tipo nogal, sensores, luz led y batería portátil.
+materials:
+  - Madera, tipo nogal
+  - Sensores
+  - Luz led
+  - Batería portátil.
+
 ---
 
-Luminaria inspirada de la naturaleza, especialmente del caparazón de la tortuga. Busca abstraer las características esenciales de la tortuga y convertirlas en atributos funcionales. El funcionamiento e interacción del producto está enfocado en ser una lámpara touch, su peso es ligero para que su traslación sea sencilla e incluso convertirla como un producto decorativo.
+Luminaria **inspirada** de la naturaleza, especialmente **del caparazón de la tortuga**. Busca abstraer las características esenciales de la tortuga y convertirlas en atributos funcionales. El funcionamiento e interacción del producto está **enfocado en ser una lámpara touch**, su peso es ligero para que su traslación sea sencilla e incluso convertirla como un producto decorativo.
+
+<br />
+
+**Su uso principal es ser decorativa**, entendiéndose que puede colocarse en mesas, suelo o en ambientes que necesiten decoración. 
