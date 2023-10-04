@@ -56,6 +56,13 @@
         'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1652984211/MJ%20Portafolio/Lumini/2.jpg ',
     },
     {
+      name: 'Brand Book',
+      description:
+        'Su enfoque principal es desarrollar un colgador cumpliendo con el requisito de que sus ensambles funcionen como el principio de un rompecabezas.',
+      image:
+        'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696398965/MJ%20Portafolio/BrandBook/Portada-01.png',
+    },
+    {
       name: 'Sense',
       description:
         'Retenedor removible que tiene como objetivo devolver la vista a personas que han perdido por completo su vista. Funciona por medio de la manipulación de estímulos de la lengua.',

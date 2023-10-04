@@ -15,6 +15,7 @@
   import PostureCorrector from './data/PostureCorrector.svx';
   import BSP from './data/BSP.svx';
   import Sense from './data/Sense.svx';
+  import BrandBook from './data/BrandBook.svx';
 
   export let url = '';
 </script>
@@ -44,6 +45,9 @@
     </Route>
     <Route path="/producto/sense">
       <Sense />
+    </Route>
+    <Route path="/producto/brand-book">
+      <BrandBook />
     </Route>
     <Route path="/" component={HomePage} />
   </Router>

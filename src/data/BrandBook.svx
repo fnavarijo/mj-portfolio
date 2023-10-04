@@ -1,0 +1,49 @@
+---
+layout: product
+
+title: Brand Book
+header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399301/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_17.png
+concept:
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696398952/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_01.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696398981/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_03.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399006/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_07.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399278/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_08.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399141/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_09.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399148/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_18.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399150/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_19.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399152/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_20.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399155/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_22.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399159/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_26.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399175/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_34.png	
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399177/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_35.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399183/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_39.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399185/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_40.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399832/MJ%20Portafolio/BrandBook/Botella.jpg
+
+
+carousel:
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399235/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_45.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399239/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_46.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399243/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_47.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399251/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_48.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399259/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_49.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399247/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_50.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399255/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_53.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399283/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_54.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399287/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_56.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399263/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_58.png
+
+
+materials:
+  - Wood, walnut type
+  - Sensors
+  - LED light
+  - Portable battery.
+
+
+---
+
+This luminaire is inspired by nature, in particular the shell of the turtle. The intention is to capture the essential characteristics of the turtle and transform them into functional attributes. The product is conceived as a lightweight tactile lamp for ease of transport and to serve as a decorative element.
+<br />
+
+Its main function is decorative and can be placed on tables, on the floor or in any space that requires a decorative touch.
