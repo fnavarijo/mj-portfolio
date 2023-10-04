@@ -35,7 +35,7 @@
 </script>
 
 <AppSection class="product-carousel">
-  <h2 class="product-carousel__header">Galería</h2>
+  <h2 class="product-carousel__header">Gallery</h2>
   <Carousel
     arrows={true}
     dots={false}

@@ -1,8 +1,8 @@
 ---
 layout: product
 
-title: Curvas
-colaboration: Trabajo en conjunto con la firma de arquitectos Taller Acá 
+title: Curves
+colaboration: Work in conjunction with the architectural firm Taller Acá
 header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791353/MJ%20Portafolio/Mini%20parques/1.jpg
 
 concept:
@@ -32,13 +32,15 @@ carousel:
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783676/MJ%20Portafolio/Mini%20parques/Im%C3%A1genes%20para%20portafolio/Parques_render_1.png
 
 materials:
-  - Pino tratado
-  - Tornillos de cabeza para generar mayor seguridad en los ensambles.
+  - Treated pine
+  - Head screws to generate greater security in the assemblies
+
 
 ---
 
-El diseño del **parque recreativo está pensado en fabricarlo con materiales sostenibles** para el medio ambiente. El parque está **enfocado para niños de 7 a 14 años**. El concepto se basa en variar la elevación de cada forma para generar mayor variedad tanto en su trayectoria como en su altura. 
-
+The design of the playground focuses on the use of sustainable materials to preserve the environment. This park has been conceived with children between the ages of 7 and 14 years old in mind. The main concept is based on varying the elevation of the different structures, which provides greater diversity in both trajectories and heights.
 <br />
-Su funcionamiento e interacción principal se enfoca en generar una experiencia durante toda la trayectoria cuando interactúan con todo el proyecto. La interacción que se busca es que los niños puedan habitarlo, caminar sobre él y en algunos casos generar una ligera escalada por causa de la variedad de la altura.
+
+The operation and the main experience is focused on children being able to fully interact with the park throughout their journey. It is intended that children can not only use it as a play space, but also walk through it and, in some cases, experience a slight climb due to the height variations it offers.
+
 

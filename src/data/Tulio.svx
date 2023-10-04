@@ -22,15 +22,15 @@ carousel:
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783637/MJ%20Portafolio/L%C3%A1mpara%20Tulio/modelo_2.png
 
 materials:
-  - Madera, tipo nogal
-  - Sensores
-  - Luz led
-  - Batería portátil.
+  - Wood, walnut type
+  - Sensors
+  - LED light
+  - Portable battery.
+
 
 ---
 
-Luminaria **inspirada** de la naturaleza, especialmente **del caparazón de la tortuga**. Busca abstraer las características esenciales de la tortuga y convertirlas en atributos funcionales. El funcionamiento e interacción del producto está **enfocado en ser una lámpara touch**, su peso es ligero para que su traslación sea sencilla e incluso convertirla como un producto decorativo.
-
+This luminaire is inspired by nature, in particular the shell of the turtle. The intention is to capture the essential characteristics of the turtle and transform them into functional attributes. The product is conceived as a lightweight tactile lamp for ease of transport and to serve as a decorative element.
 <br />
 
-**Su uso principal es ser decorativa**, entendiéndose que puede colocarse en mesas, suelo o en ambientes que necesiten decoración. 
+Its main function is decorative and can be placed on tables, on the floor or in any space that requires a decorative touch.

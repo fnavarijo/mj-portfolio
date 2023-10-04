@@ -18,13 +18,13 @@ carousel:
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1652984211/MJ%20Portafolio/Lumini/1.jpg
 
 materials:
-  - Madera, tipo pino 
-  - Foco con su alambre y conexión
+  - Wood, pine type
+  - Spotlight with wire and connection
+
 
 ---
 
-**Luminaria basada en el concepto de DIY (Do it yourself)**. Se buscó principalmente ser un diseño enfocado en ser planos seriados y sin ningún ensamble fijo para cumplir con la teoría de DIY. 
-
+This luminaire is based on the DIY concept. Our design focuses on offering serialized plans and without any fixed assembly, thus complying with the DIY philosophy.
 <br />
 
-Está **enfocado para aquellas personas que les gusta armar sus propios productos**. Su funcionamiento e interacción se basa en unir todas las piezas con base a la orientación que da la base de la lámpara. 
+It is aimed at people who enjoy assembling their own products. Its operation and interaction consist of assembling all the pieces following the instructions provided by the lamp base."

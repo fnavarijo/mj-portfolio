@@ -7,7 +7,7 @@
 <AppSection class="product-section">
   <div class="circle-decoration" />
   <header class="product__header">
-    <h2 class="product__title">Proyectos</h2>
+    <h2 class="product__title">Projects</h2>
     <hr class="product__separator" />
   </header>
   <ProductSlide />

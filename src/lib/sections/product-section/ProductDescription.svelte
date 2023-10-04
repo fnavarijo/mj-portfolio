@@ -16,7 +16,7 @@
 
   <aside class="product-description__materials-container">
     <div class="product-description__materials-header-wrapper">
-      <span class="product-description__materials-header">Materiales</span>
+      <span class="product-description__materials-header">Materials</span>
       <hr class="product-description__materials-separator" />
     </div>
     <p class="product-description__materials-list">

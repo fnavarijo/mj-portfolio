@@ -1,7 +1,7 @@
 ---
 layout: product
 
-title: Nudo Gordiano
+title: Gordian Knot
 header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783650/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_2.1.jpg
 
 concept:
@@ -28,11 +28,11 @@ carousel:
 
 
 materials:
-  - MDF de 3mm
+  - 3mm MDF
 ---
 
-Está inspirado en un **recuerdo de infancia** que en términos de concepto hace referencia al **diseño emocional**. Este busca **convertir un rompecabezas 2D en un producto 3D**. Se enfoca para aquellas personas que les gusta armar rompecabezas.
-
+This design is inspired by a childhood memory and is based on the concept of emotional design. Its objective is to transform a 2D puzzle into a three-dimensional product, aimed at people who like to assemble puzzles.
 <br />
 
-Su **funcionamiento se basa en** la interconexión que puede existir entre las piezas a través de **la flexibilidad que se puede generar el sistema de corte**. Se usó tecnología de corte láser para generar el diseño.
+Its operation is based on the interconnection that can be achieved between the pieces thanks to the flexibility of the cutting system. Laser cutting technology was used for its creation.
+

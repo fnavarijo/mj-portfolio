@@ -21,21 +21,21 @@
         'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790379/MJ%20Portafolio/Food%20design/3.jpg',
     },
     {
-      name: 'Curvas',
+      name: 'Curves',
       description:
         'El diseño del parque recreativo está inspirado en la alteración de la figura del círculo. Busca generar interacción con la persona a través de la aplicación de diversas alturas del conjunto.',
       image:
         'https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791341/MJ%20Portafolio/Mini%20parques/3.jpg',
     },
     {
-      name: 'Nudo Gordiano',
+      name: 'Gordian Knot',
       description:
         'Está inspirado en un recuerdo de infancia que en términos de diseño hace referencia al diseño emocional. Este busca convertir un rompecabezas 2D a un producto 3D.',
       image:
         'https://res.cloudinary.com/dkvtpo8w1/image/upload/c_fill,h_405,w_270/v1648783650/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_2.1.jpg',
     },
     {
-      name: 'Corrector de postura',
+      name: 'Posture Corrector',
       description:
         'Es un corrector portátil que busca corregir y prevenir enfermedades a futuro que puede llegar a adquirir tras haber tenido una mala postura.',
       image:

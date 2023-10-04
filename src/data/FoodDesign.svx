@@ -28,26 +28,25 @@ carousel:
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648790377/MJ%20Portafolio/Food%20design/6.jpg
 
 materials:
-  - Globos (como primeros prototipos)
-  - Pajillas
-  - Gelatina de sabores
-  - Agua.
+  - Balloons (as first prototypes)
+  - Straws
+  - Flavored gelatin
+  - Water
 
 ---
 
-Enfocado a generar el impacto negativo al medio ambiente, abordando como tema principal el área **Food Design**.
-Su diseño fue desarrollar un recipiente que fuera elaborado de un material que fuera resistente a líquidos fríos, comestible y digerible.
+
+This initiative focuses on reducing the negative impact on the environment, focusing on the field of Food Design. The main objective was to design a container resistant to cold liquids, edible and digestible.
 <br />
 
-El concepto **se basa en la filosofía de economía lineal** (producir - usar - eliminar). Busca crear un producto que tenga un inicio y un final para que cuando la persona termine la bebida, pueda **terminar su ciclo de vida de dos formas.**
+The concept is based on the philosophy of linear economy (produce - use - dispose). We sought to create a product that has a clear beginning and end, so that when someone finishes their drink, the container can complete its life cycle in two different ways.
 <br />
 
-1. **Primero, la persona lo ingiere**, porque el vaso es comestible con sabor a café
-2. **Segundo**, en caso de desecharlo, se disuelve en agua caliente para evitar la obsolescencia programada que tienen los recipientes de un solo uso.
-
+First, the person can ingest it, as the cup is edible and has a coffee flavor.
 <br />
 
-Por ser un **material sensible a la temperatura caliente**, en cuanto más lo utilicen, su resistencia va reduciendo, así que lo **recomendable es servirse máximo dos veces en el mismo**, por eso la interacción es dependiente a las veces que interactúen con el producto.
-
+Secondly, in case of disposal, the cup dissolves in hot water, thus avoiding the programmed obsolescence typical of single-use cups.
 <br />
-Las dimensiones de tamaño varían, se basa mucho del tamaño que se busca generar, así que es anexo al gusto de la persona.
+
+Due to its sensitivity to hot temperature, the resistance of the container decreases with use. Therefore, it is recommended to use it a maximum of two times to maintain its integrity. Container dimensions vary according to personal preference.
+

@@ -8,11 +8,11 @@
   import Product2DPage from './lib/pages/Product2DPage.svelte';
 
   import FoodDesign from './data/FoodDesign.svx';
-  import Curvas from './data/Curvas.svx';
+  import Curves from './data/Curves.svx';
   import Tulio from './data/Tulio.svx';
   import Lumini from './data/Lumini.svx';
-  import NudoGordiano from './data/NudoGordiano.svx';
-  import CorrectPostura from './data/CorrectorPostura.svx';
+  import GordianKnot from './data/GordianKnot.svx';
+  import PostureCorrector from './data/PostureCorrector.svx';
   import BSP from './data/BSP.svx';
   import Sense from './data/Sense.svx';
 
@@ -24,8 +24,8 @@
     <Route path="/producto/food-design">
       <FoodDesign />
     </Route>
-    <Route path="/producto/curvas">
-      <Curvas />
+    <Route path="/producto/curves">
+      <Curves />
     </Route>
     <Route path="/producto/tulio">
       <Tulio />
@@ -33,11 +33,11 @@
     <Route path="/producto/lumini">
       <Lumini />
     </Route>
-    <Route path="/producto/nudo-gordiano">
-      <NudoGordiano />
+    <Route path="/producto/gordian-knot">
+      <GordianKnot />
     </Route>
-    <Route path="/producto/corrector-de-postura">
-      <CorrectPostura />
+    <Route path="/producto/posture-corrector">
+      <PostureCorrector />
     </Route>
     <Route path="/producto/bsp">
       <BSP />

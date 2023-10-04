@@ -10,8 +10,8 @@
       <h2 class="home-section__name">Mariajosé</h2>
       <hr class="home-section__separator" />
       <p class="home-section__description-text">
-        Me gusta armar rompecabezas porque me agrada que todo tenga fluidez,
-        sentido y genere armonía en el diseño.
+        I like to put puzzles together because I like everything to flow, make
+        sense and generate harmony in the design.
       </p>
     </div>
     <img

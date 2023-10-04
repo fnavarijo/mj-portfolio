@@ -1,8 +1,8 @@
 ---
 layout: product
 
-title: Corrector de postura
-colaboration: Trabajado en conjunto con Paola Cabrera, Roberto Donis, Abner Coc, Mariajosé Navarijo
+title: Posture Corrector
+colaboration: Worked in conjunction with Paola Cabrera, Roberto Donis, Abner Coc, Mariajosé Navarijo
 header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783633/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/test.133.jpg
 concept:
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653268968/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/Planos/Portada.jpg
@@ -23,18 +23,17 @@ carousel:
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783646/MJ%20Portafolio/Corrector%20de%20mu%C3%B1eca/Fotos%20para%20portafolio/46.png
 
 materials:
-  - PLA (Ácido polilactico) negro
-  - Algodón para la comodidad del brazo
+  - PLA (Polylactic Acid) black
+  - Cotton for arm comfort
+
 
 ---
 
-Es un corrector portátil que busca **corregir y prevenir enfermedades** a futuro que puede llegar a adquirir **tras haber tenido una mala postura de la muñeca frente al computador**. Enfocado para personas que trabajan desde su casa. 
-Pasa su mayor tiempo conectado en su computadora y se encuentra en un rango de edad de 20 a 35 años. 
-
+This is a portable brace designed to correct and prevent future health problems that may arise due to poor wrist posture when working at the computer. It is especially aimed at people who work from home and spend most of their time at the computer, between the ages of 20 and 35.
 <br />
 
-El funcionamiento del producto se enfoca en abordar de manera indirecta, es decir, la ubicación del producto **se encuentra en el codo debido a que recibe el mayor presión del brazo y esto puede aligerar la tensión de los nervios que se puede generar directamente en la muñeca**. En cambio, si se resuelve el producto directamente desde la muñeca, en vez de cumplir el objetivo de mejorar la postura, se estará dañando. 
-
+The operation of this product focuses on indirectly addressing the problem. It is placed at the elbow, as this area experiences the most pressure on the arm, which can relieve the stress on the nerves that directly affects the wrist. Rather than focusing directly on the wrist, which could worsen posture, this approach seeks to improve it.
 <br />
 
-El producto se desarrolló con la tecnología de la impresora 3D. Para ver mayor variedad de color, pueden visitar el siguiente [link.](https://codepen.io/fnavarijo/full/GRvrOYm)
+3D printing technology was used to manufacture this product. If you would like to see more color options, please visit the following [link.](https://codepen.io/fnavarijo/full/GRvrOYm)
+<br />

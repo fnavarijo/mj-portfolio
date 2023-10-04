@@ -2,7 +2,7 @@
 layout: product
 
 title: BSP
-colaboration: En colaboración con Gabriela Alvarado, Roberto Donis, Abner Coc, David Rosales, Mariajosé Navarijo
+colaboration: In collaboration with Gabriela Alvarado, Roberto Donis, Abner Coc, David Rosales, Mariajosé Navarijo
 header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783700/MJ%20Portafolio/Bio_Solar_Protection.png
 concept:
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654734698/MJ%20Portafolio/BSP/Portada.png
@@ -12,18 +12,18 @@ concept:
 bigImage: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783700/MJ%20Portafolio/Bio_Solar_Protection.png
 
 materials:
-  - Material biotecnológico, la bacteria Bacillus Subtilis Natto
+  - Biotechnological material, the bacterium Bacillus Subtilis Natto
 ---
 
-Se examina una diferente solución para **proteger a las personas recolectoras de café**. La idea es ofrecer los servicios básicos para que puedan ejercer sus labores sin dificultad y protegerlos del sol cuando trabajen.
-
+An innovative solution has been proposed to protect coffee pickers while they perform their tasks, offering them basic comfort and protection from sun exposure.
 <br />
 
-**El concepto de diseño se basa en la corrección de postura de la espalda**. Su funcionamiento además de mejorar la postura, **el material** con el que se busca desarrollar, **es un biomaterial inteligente que ayuda a ofrecer frescura cuando se utiliza**. En otras palabras, cuando el material tiene contacto con algo líquido, en este caso el sudor de la persona, en vez de pegarse a la piel o ropa de la persona, este se abrirá de tal manera que ayudará a pasar aire en esos espacios abiertos. 
-
+The design focuses on correcting back posture, thus improving user ergonomics. In addition, a smart biomaterial is used that provides a cooling sensation when in contact with liquids, such as sweat. In other words, instead of adhering to skin or clothing, the material opens up to allow better air circulation in those spaces.
 <br />
 
-- Capacidad de hidratación: 1.5 L
-- Peso: 60 gr.
-- Dimensiones: 33 x 18 x 19 cm
-- Longitud torso: 33 cm
+Specifications:
+- Hydration capacity: 1.5 liters.
+- Weight: 60 grams
+- Dimensions: 33 x 18 x 19 cm
+- Torso length: 33 cm
+
