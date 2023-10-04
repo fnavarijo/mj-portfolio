@@ -35,10 +35,9 @@ carousel:
 
 
 materials:
-  - Wood, walnut type
-  - Sensors
-  - LED light
-  - Portable battery.
+  - Illustrator
+  - Photoshop
+  - Sewing machinery
 
 
 ---
