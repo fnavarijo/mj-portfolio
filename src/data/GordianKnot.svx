@@ -5,15 +5,16 @@ title: Gordian Knot
 header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783650/MJ%20Portafolio/Nudo%20gordiano/Nudo_gordiano_2.1.jpg
 
 concept:
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269404/MJ%20Portafolio/Nudo%20gordiano/Planos/1.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269380/MJ%20Portafolio/Nudo%20gordiano/Planos/2.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269382/MJ%20Portafolio/Nudo%20gordiano/Planos/3.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269384/MJ%20Portafolio/Nudo%20gordiano/Planos/4.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269378/MJ%20Portafolio/Nudo%20gordiano/Planos/5.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696830024/MJ%20Portafolio/Nudo%20gordiano/Ingles/1.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696830008/MJ%20Portafolio/Nudo%20gordiano/Ingles/2.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696830005/MJ%20Portafolio/Nudo%20gordiano/Ingles/3.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696830015/MJ%20Portafolio/Nudo%20gordiano/Ingles/4.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696830019/MJ%20Portafolio/Nudo%20gordiano/Ingles/5.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269403/MJ%20Portafolio/Nudo%20gordiano/Planos/6.jpg
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269402/MJ%20Portafolio/Nudo%20gordiano/Planos/7.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269378/MJ%20Portafolio/Nudo%20gordiano/Planos/8.png
-  # - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269377/MJ%20Portafolio/Nudo%20gordiano/Planos/9.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696830011/MJ%20Portafolio/Nudo%20gordiano/Ingles/6.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654047281/MJ%20Portafolio/Nudo%20gordiano/Planos/9.png
+
 
 carousel:
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729432/MJ%20Portafolio/Nudo%20gordiano/Galeria/1.jpg

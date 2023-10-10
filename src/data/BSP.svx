@@ -5,11 +5,8 @@ title: BSP
 colaboration: In collaboration with Gabriela Alvarado, Roberto Donis, Abner Coc, David Rosales, Mariajosé Navarijo
 header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783700/MJ%20Portafolio/Bio_Solar_Protection.png
 concept:
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654734698/MJ%20Portafolio/BSP/Portada.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654734699/MJ%20Portafolio/BSP/Moodboard.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654734698/MJ%20Portafolio/BSP/Bocetos.png
 
-bigImage: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648783700/MJ%20Portafolio/Bio_Solar_Protection.png
+bigImage: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696831649/MJ%20Portafolio/BSP/BSP.png
 
 materials:
   - Biotechnological material, the bacterium Bacillus Subtilis Natto

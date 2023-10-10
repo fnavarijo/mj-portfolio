@@ -6,18 +6,19 @@ colaboration: Work in conjunction with the architectural firm Taller Acá
 header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791353/MJ%20Portafolio/Mini%20parques/1.jpg
 
 concept:
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269603/MJ%20Portafolio/Mini%20parques/Planos/1.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696827689/MJ%20Portafolio/Mini%20parques/Ingles/1-01.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269604/MJ%20Portafolio/Mini%20parques/Planos/2.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729852/MJ%20Portafolio/Mini%20parques/Planos/13.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729853/MJ%20Portafolio/Mini%20parques/Planos/14.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729853/MJ%20Portafolio/Mini%20parques/Planos/15.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269570/MJ%20Portafolio/Mini%20parques/Planos/3.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269597/MJ%20Portafolio/Mini%20parques/Planos/4.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269581/MJ%20Portafolio/Mini%20parques/Planos/5.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269585/MJ%20Portafolio/Mini%20parques/Planos/6.1.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269589/MJ%20Portafolio/Mini%20parques/Planos/7.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269593/MJ%20Portafolio/Mini%20parques/Planos/8.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1653269594/MJ%20Portafolio/Mini%20parques/Planos/9.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696828045/MJ%20Portafolio/Mini%20parques/Ingles/9.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696828046/MJ%20Portafolio/Mini%20parques/Ingles/10.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696828047/MJ%20Portafolio/Mini%20parques/Ingles/11.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696832541/MJ%20Portafolio/Mini%20parques/Ingles/cATALOGO.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696827695/MJ%20Portafolio/Mini%20parques/Ingles/2.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696827683/MJ%20Portafolio/Mini%20parques/Ingles/3.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696827685/MJ%20Portafolio/Mini%20parques/Ingles/4.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696827694/MJ%20Portafolio/Mini%20parques/Ingles/5.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696827694/MJ%20Portafolio/Mini%20parques/Ingles/6.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696827691/MJ%20Portafolio/Mini%20parques/Ingles/7.png
+
 
 carousel:
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1648791348/MJ%20Portafolio/Mini%20parques/5.jpg

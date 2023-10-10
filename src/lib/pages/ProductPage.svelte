@@ -22,6 +22,8 @@
   export let carousel;
   export let materials = [];
   export let bigImage;
+
+  console.log('Concept', concept);
 </script>
 
 <div>
@@ -35,7 +37,9 @@
         {/each}
       </ul>
     </ProductDescription>
-    <ProductConcept {concept} description={''} />
+    {#if concept !== null}
+      <ProductConcept {concept} description={''} />
+    {/if}
     {#if bigImage}
       <img src={bigImage} alt="" />
     {/if}
