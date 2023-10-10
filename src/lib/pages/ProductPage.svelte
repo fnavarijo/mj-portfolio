@@ -22,8 +22,6 @@
   export let carousel;
   export let materials = [];
   export let bigImage;
-
-  console.log('Concept', concept);
 </script>
 
 <div>
