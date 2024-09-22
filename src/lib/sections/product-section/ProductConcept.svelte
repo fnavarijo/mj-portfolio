@@ -47,6 +47,7 @@
 
   .product-concept__image {
     border-radius: 0.5rem;
+    object-fit: scale-down;
   }
 
   .navigation-icon {
