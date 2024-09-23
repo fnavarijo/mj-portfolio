@@ -4,20 +4,19 @@ layout: product
 title: Brand Book
 header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399301/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_17.png
 concept:
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696398952/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_01.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696398981/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_03.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727070435/MJ%20Portafolio/BrandBook/Diapos/Ai_-_Marca_personal-09.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727070436/MJ%20Portafolio/BrandBook/Diapos/Ai_-_Marca_personal-10.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399006/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_07.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399278/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_08.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399141/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_09.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399148/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_18.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399150/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_19.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399152/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_20.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399155/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_22.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399159/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_26.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399175/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_34.png	
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399177/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_35.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399183/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_39.png
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399185/MJ%20Portafolio/BrandBook/Mariajos%C3%A9_Navarijo_-_Brandbook_Page_40.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727070437/MJ%20Portafolio/BrandBook/Diapos/Ai_-_Marca_personal-11.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727070438/MJ%20Portafolio/BrandBook/Diapos/Ai_-_Marca_personal-12.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727070447/MJ%20Portafolio/BrandBook/Diapos/Ai_-_Marca_personal-19.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727070439/MJ%20Portafolio/BrandBook/Diapos/Ai_-_Marca_personal-13.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727070896/MJ%20Portafolio/BrandBook/Diapos/Ai_-_Marca_personal-14.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727070442/MJ%20Portafolio/BrandBook/Diapos/Ai_-_Marca_personal-15.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727070443/MJ%20Portafolio/BrandBook/Diapos/Ai_-_Marca_personal-16.png
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727070445/MJ%20Portafolio/BrandBook/Diapos/Ai_-_Marca_personal-17.png
   - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1696399832/MJ%20Portafolio/BrandBook/Botella.jpg
 
 
