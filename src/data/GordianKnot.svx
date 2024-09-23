@@ -17,15 +17,14 @@ concept:
 
 
 carousel:
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729432/MJ%20Portafolio/Nudo%20gordiano/Galeria/1.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729437/MJ%20Portafolio/Nudo%20gordiano/Galeria/2.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729640/MJ%20Portafolio/Nudo%20gordiano/Galeria/3.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729437/MJ%20Portafolio/Nudo%20gordiano/Galeria/4.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729430/MJ%20Portafolio/Nudo%20gordiano/Galeria/5.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729430/MJ%20Portafolio/Nudo%20gordiano/Galeria/6.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729432/MJ%20Portafolio/Nudo%20gordiano/Galeria/7.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729431/MJ%20Portafolio/Nudo%20gordiano/Galeria/8.jpg
-  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729431/MJ%20Portafolio/Nudo%20gordiano/Galeria/9.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729437/MJ%20Portafolio/Nudo%20gordiano/Galeria/2.jpg 
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729640/MJ%20Portafolio/Nudo%20gordiano/Galeria/3.jpg 
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1654729437/MJ%20Portafolio/Nudo%20gordiano/Galeria/4.jpg 
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727064406/MJ%20Portafolio/Nudo%20gordiano/Consutrccion/1.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727064406/MJ%20Portafolio/Nudo%20gordiano/Consutrccion/2.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727064408/MJ%20Portafolio/Nudo%20gordiano/Consutrccion/3.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727064405/MJ%20Portafolio/Nudo%20gordiano/Consutrccion/4.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727064405/MJ%20Portafolio/Nudo%20gordiano/Consutrccion/5.jpg
 
 
 materials:

@@ -16,6 +16,7 @@
   import BSP from './data/BSP.svx';
   import Sense from './data/Sense.svx';
   import BrandBook from './data/BrandBook.svx';
+  import Templo from './data/Templo.svx';
 
   export let url = '';
 </script>
@@ -48,6 +49,9 @@
     </Route>
     <Route path="/producto/brand-book">
       <BrandBook />
+    </Route>
+    <Route path="/producto/temple">
+      <Templo />
     </Route>
     <Route path="/" component={HomePage} />
   </Router>

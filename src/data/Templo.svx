@@ -1,0 +1,22 @@
+---
+layout: product
+
+title: Briefing Templo
+header: https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727060413/MJ%20Portafolio/Templo/Diapositiva4.jpg
+concept:
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727060413/MJ%20Portafolio/Templo/Diapositiva1.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727060413/MJ%20Portafolio/Templo/Diapositiva4.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727060413/MJ%20Portafolio/Templo/Diapositiva3.jpg
+  - https://res.cloudinary.com/dkvtpo8w1/image/upload/v1727063457/MJ%20Portafolio/Templo/Instrucciones.png
+
+
+materials:
+  - Photoshop
+  - Fusion 360
+  - Keyshot
+
+
+
+---
+
+It is a project inspired by the Golden Temple Pavillion. The design of the model is based on the Nano Block model. The main focus is to develop a block structure design. This project includes both the model and a first edition instruction manual for its construction.
